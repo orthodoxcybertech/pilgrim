@@ -1,5 +1,6 @@
 ---
 title: Fixed Feasts
+weight: 3
 type: docs
 prev: book/calendar/weekdays
 next: book/calendar/moveable-feasts

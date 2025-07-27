@@ -1,5 +1,6 @@
 ---
 title: Days of the Week
+weight: 2
 type: docs
 prev: book/calendar/fasting-categories
 next: book/calendar/fixed-feasts

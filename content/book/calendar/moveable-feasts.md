@@ -1,6 +1,7 @@
 ---
 title: Moveable Feasts
 type: docs
+weight: 4
 prev: book/calendar/fixed-feasts
 next: book/calendar/lectionary-table
 sidebar:
