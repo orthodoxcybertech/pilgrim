@@ -19,17 +19,20 @@ markup:
 menu:
   main:
     - name: Prayer Book
-      pageRef: /book
+      pageRef: /prayer
       weight: 1
+    - name: Bible
+      pageRef: /bible
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 5
       url: "https://github.com/orthodoxcybertech/pilgrim"
       params:
         icon: github
