@@ -1,17 +1,10 @@
 ---
-title: My Site
+title: Pilgrim
 toc: false
 ---
 
-This is the landing page.
-
-## Explore
-
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+{{< cards cols="1" >}}
+  {{< card link="docs" title="Static Prayer Book" icon="book-open" >}}
+  {{< card link="docs" title="Automatic Service Compiler (Coming Soon)" icon="clock" >}}
+  {{< card link="about" title="About" icon="question-mark-circle" >}}
 {{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
