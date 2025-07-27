@@ -1,6 +1,6 @@
 ---
 title: Great Sunset Watch
 type: docs
-prev: small-sunset
+prev: book/sunset/small-sunset
 next: book/small-aftersupper
 ---

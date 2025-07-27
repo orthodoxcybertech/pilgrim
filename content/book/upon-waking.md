@@ -1,6 +1,6 @@
 ---
 title: Demo Page
 type: docs
-prev: before-sleeping
-next: for-any-need
+prev: book/before-sleeping
+next: book/for-any-need
 ---

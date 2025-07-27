@@ -1,6 +1,6 @@
 ---
 title: Small Aftersupper Watch
 type: docs
-prev: sunset/great-sunset
-next: midnight/week-midnight
+prev: book/sunset/great-sunset
+next: book/midnight/week-midnight
 ---
