@@ -1,7 +1,7 @@
 ---
 title: Fasting Categories
 type: docs
-prev: /
+prev: book/calendar
 next: book/calendar/weekdays
 ---
 
