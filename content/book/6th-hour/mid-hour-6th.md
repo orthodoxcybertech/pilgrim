@@ -1,7 +1,7 @@
 ---
-title: Mid-Hour of the Ninth Hour
+title: Mid-Hour of the Sixth Hour
 type: docs
-prev: book/6th-hour/mid-hour-6th
-next: book/9th-hour/mid-hour-9th
+prev: book/6th-hour
+next: book/9th-hour
 toc: false
 ---
