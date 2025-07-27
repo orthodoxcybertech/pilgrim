@@ -1,7 +1,7 @@
 ---
 title: The Gospel According to St. Matthew
 linkTitle: Matthew
-next: book/calendar
+next: prayer-book/calendar
 toc: false
 ---
 
