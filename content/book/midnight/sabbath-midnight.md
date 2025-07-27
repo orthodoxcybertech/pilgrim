@@ -1,5 +1,5 @@
 ---
-title: Midnight Watch on the Sabbath
+title: Sabbath Midnight Watch
 weight: 2
 type: docs
 prev: book/midnight/week-midnight

@@ -1,5 +1,5 @@
 ---
-title: Midnight Watch on the Lord's Day
+title: Lordsday Midnight Watch
 weight: 3
 type: docs
 prev: book/midnight/sabbath-midnight
