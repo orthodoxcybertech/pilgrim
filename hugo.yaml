@@ -19,7 +19,7 @@ markup:
 menu:
   main:
     - name: Prayer Book
-      pageRef: /prayer
+      pageRef: /prayer-book
       weight: 1
     - name: Bible
       pageRef: /bible
