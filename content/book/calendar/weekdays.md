@@ -4,8 +4,7 @@ weight: 2
 type: docs
 prev: book/calendar/fasting-categories
 next: book/calendar/fixed-feasts
-sidebar:
-  open: true
+toc: false
 ---
 
 - Commemorations of days of the week and fasting.

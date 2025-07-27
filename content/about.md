@@ -1,6 +1,7 @@
 ---
 title: About
 type: about
+toc: false
 ---
 
 Pilgrim is a website and app for (Eastern) Orthodox Christians who wish to pray in the English tongue. It currently features a prayer book and bible compiled from various traditional English translations.

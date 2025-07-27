@@ -1,6 +1,7 @@
 ---
 title: Prayer Book
-next: calendar
+next: book/calendar
+toc: false
 ---
 
 .
