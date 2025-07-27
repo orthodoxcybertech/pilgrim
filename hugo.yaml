@@ -41,7 +41,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: false
+    displayPoweredBy: true
 
   editURL:
     enable: false
