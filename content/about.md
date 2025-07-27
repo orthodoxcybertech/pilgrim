@@ -11,6 +11,6 @@ toc: false
 - Holy Transfiguration Monastery: _Pocket Book of Hours_ [HTM.Hours]
 - Holy Trinity Publications: The _Jordanville Prayer Book_ [Jordanville]
 - David Mitchell James & Holy Trinity Publications: _A Psalter for Prayer_ [DMJ]
-- Michael Asser: a KJV-style translation of the Septuagint [Asser]
-- Dn. David Hawthorne: KJV-style translation of the Patristic Text of the New Testament [Hawthorne]
+- Michael Asser: revision and expansion of KJV Old Testament in light of the Septuagint [Asser]
+- Dn. David Hawthorne: revision of KJV New Testament in light of the Patristic Text [Hawthorne]
 - original material and edits [ed.]
