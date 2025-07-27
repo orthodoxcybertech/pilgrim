@@ -6,3 +6,5 @@ prev: prayer-book/great-hours
 next: prayer-book/pro-liturgy
 toc: false
 ---
+
+**A.K.A. "Paschal Hours".**

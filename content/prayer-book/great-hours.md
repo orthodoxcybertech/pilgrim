@@ -6,3 +6,5 @@ prev: prayer-book/9th-hour/mid-hour-9th
 next: prayer-book/bright-hours
 toc: false
 ---
+
+**A.K.A. "Royal Hours".**

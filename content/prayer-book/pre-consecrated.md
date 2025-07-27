@@ -6,3 +6,5 @@ prev: prayer-book/divine-liturgy
 next: prayer-book/psalter
 toc: false
 ---
+
+**A.K.A. "Liturgy of (the) Pre-Sanctified Gifts".**

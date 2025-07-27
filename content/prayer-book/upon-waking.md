@@ -6,3 +6,7 @@ prev: prayer-book/before-sleeping
 next: prayer-book/for-any-need
 toc: false
 ---
+
+These prayers reflect the Russian practice.
+
+_[Jordanville]_
