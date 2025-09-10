@@ -7,7 +7,7 @@ weight: 1
 toc: false
 ---
 
-# The Five Books of the Law ("Pentateuch")
+## The Five Books of the Law ("Pentateuch")
 {{< cards cols="1" >}}
   {{< card link="../gen.md" title="Genesis" >}}
   {{< card link="../ex.md" title="Exodus" >}}
@@ -16,7 +16,7 @@ toc: false
   {{< card link="../deut.md" title="Deuteronomy" >}}
 {{< /cards >}}
 
-# The Books of History
+## The Books of History
 {{< cards cols="1" >}}
   {{< card link="../josh" title="Joshua" >}}
   {{< card link="../judg" title="Judges" >}}
@@ -49,8 +49,8 @@ toc: false
   {{< card link="../sir" title="Sirach" >}}
 {{< /cards >}}
 
-# The Books of Prophecy
-## The Twelve Minor Prophets
+## The Books of Prophecy
+### The Twelve Minor Prophets
 {{< cards cols="1" >}}
   {{< card link="../hos" title="Hosea" >}}
   {{< card link="../amos" title="Amos" >}}
@@ -66,7 +66,7 @@ toc: false
   {{< card link="../mal" title="Malachi" >}}
 {{< /cards >}}
 
-## The Major Prophets
+### The Major Prophets
 {{< cards cols="1" >}}
   {{< card link="../is" title="Isaiah" >}}
   {{< card link="../jer" title="Jeremiah" >}}
