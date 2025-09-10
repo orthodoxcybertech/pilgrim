@@ -17,7 +17,11 @@ toc: false
 
 ## The Other Writings of the Apostles
 {{< cards cols="1" >}}
-  {{< card link="./acts" title="Acts" >}}
+  {{< card link="./acts" title="Acts of the Apostles" >}}
+{{< /cards >}}
+
+### The Epistles of St Paul
+{{< cards cols="1" >}}
   {{< card link="./rom" title="Romans" >}}
   {{< card link="./1-cor" title="I Corinthians" >}}
   {{< card link="./2-cor" title="II Corinthians" >}}
@@ -32,6 +36,10 @@ toc: false
   {{< card link="./titus" title="Titus" >}}
   {{< card link="./philem" title="Philemon" >}}
   {{< card link="./heb" title="Hebrews" >}}
+{{< /cards >}}
+
+### The Catholic Epistles
+{{< cards cols="1" >}}
   {{< card link="./james" title="James" >}}
   {{< card link="./1-pet" title="I Peter" >}}
   {{< card link="./2-pet" title="II Peter" >}}
@@ -39,5 +47,10 @@ toc: false
   {{< card link="./2-john" title="II John" >}}
   {{< card link="./3-john" title="III John" >}}
   {{< card link="./jude" title="Jude" >}}
+{{< /cards >}}
+
+---
+
+{{< cards cols="1" >}}
   {{< card link="./rev" title="Revelation" >}}
 {{< /cards >}}
