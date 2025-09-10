@@ -20,8 +20,8 @@ body {
 /* primary colour */
 :root {
   --primary-hue: 54deg;
-  --primary-saturation: 100%;
-  --primary-lightness: 94%;
+  --primary-saturation: 90%;
+  --primary-lightness: 75%;
 }
 
 /* page format */
