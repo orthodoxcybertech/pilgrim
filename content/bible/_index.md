@@ -1,5 +1,5 @@
 ---
-title: THE HOLY BIBLE
+title: Bible
 next: bible/frontmatter
 toc: false
 ---
