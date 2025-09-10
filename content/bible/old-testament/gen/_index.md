@@ -1,5 +1,5 @@
 ---
-title: Genesis
+title: The Book of Genesis
 linkTitle: Genesis
 type: docs
 prev: /bible
