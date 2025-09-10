@@ -45,6 +45,8 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+  
+  externalLinkDecoration: true
 
   footer:
     displayCopyright: false
