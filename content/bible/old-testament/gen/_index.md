@@ -1,6 +1,7 @@
 ---
 title: The Book of Genesis
 linkTitle: Genesis
+weight: 1
 type: docs
 prev: bible/old-testament
 next: bible/old-testament/gen/1
