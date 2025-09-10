@@ -1,6 +1,7 @@
 ---
 title: The Gospel According to St. Matthew
-linkTitle: Mattew
+linkTitle: Matthew
+type: docs
 next: prayer-book/calendar
 toc: true
 ---
