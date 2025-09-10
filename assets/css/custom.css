@@ -19,9 +19,9 @@ body {
 
 /* primary colour */
 :root {
-  --primary-hue: 100deg;
-  --primary-saturation: 90%;
-  --primary-lightness: 50%;
+  --primary-hue: 54deg;
+  --primary-saturation: 100%;
+  --primary-lightness: 94%;
 }
 
 /* page format */
