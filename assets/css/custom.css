@@ -30,11 +30,11 @@ body {
   -webkit-font-feature-settings: "swsh";
   font-feature-settings: "swsh";
 
-  /*oldstyle figures = true*/
+  /*oldstyle figures = true
   font-variant-numeric: oldstyle-nums;
   -moz-font-feature-settings: "onum";
   -webkit-font-feature-settings: "onum";
-  font-feature-settings: "onum";
+  font-feature-settings: "onum";*/
 }
 
 /* This lets you customize the global look and feel without having to modify every individual class. */
