@@ -18,5 +18,5 @@ The team of Orthodox Christians behind this effort wishes to remain anonymous.
 - Dn. David Hawthorne: revision of KJV New Testament in light of the Patristic Text [Hawthorne]
 - original material and edits [ed.]
 
-## No-AI disclaimer
-No "Artificial Intelligence" tools have been used in any capacity in the creation, publication, or distribution of this work.
+## AI disclaimer
+This work has been completed largely by hand, with sparing use of "Artificial Intelligence" tools for menial tasks (for instance, extending a list of chapters from 1–10 to 1–150).
