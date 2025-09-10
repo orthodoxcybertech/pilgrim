@@ -1,6 +1,6 @@
 ---
 title: Bible
-next: bible/frontmatter
+next: bible/Genesis/1
 toc: false
 cascade:
     params:
