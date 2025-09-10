@@ -2,7 +2,8 @@
 title: Genesis
 linkTitle: Genesis
 type: docs
-next: prayer-book/calendar
+prev: /bible
+next: ./1
 toc: false
 ---
 
