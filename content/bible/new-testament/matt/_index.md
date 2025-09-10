@@ -1,5 +1,5 @@
 ---
-title: The Gospel According to Matthew
+title: The Gospel According to St Matthew
 linkTitle: Matthew
 type: docs
 prev: bible/new-testament
