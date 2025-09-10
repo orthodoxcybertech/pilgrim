@@ -1,6 +1,7 @@
 ---
 title: THE HOLY BIBLE
-next: bible/Genesis/1
+link-title: Bible
+next: bible/gen/1
 toc: false
 cascade:
     params:
