@@ -1,6 +1,10 @@
 /* font */
-.content {
-  font-family: "EB Garamond", serif;
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
+body {
+  font-family: EB Garamond, serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* This lets you customize the global look and feel without having to modify every individual class. */
