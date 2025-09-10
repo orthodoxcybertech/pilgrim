@@ -1,5 +1,5 @@
 ---
-title: THE HOLY BIBLE
+title: The Bible
 link-title: Bible
 next: bible/gen/1
 toc: false
