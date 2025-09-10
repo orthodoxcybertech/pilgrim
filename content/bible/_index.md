@@ -3,10 +3,6 @@ title: THE HOLY BIBLE
 link-title: Bible
 next: bible/gen/1
 toc: false
-cascade:
-    params:
-        breadcrumbs: true
-        reversePagination: false
 ---
 
 {{< cards cols="2" >}}
