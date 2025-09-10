@@ -1,31 +1,161 @@
 ---
-title: The Gospel According to St. Matthew
+title: The Gospel According to Matthew
 linkTitle: Matthew
 type: docs
-next: prayer-book/calendar
-toc: true
+prev: /bible
+next: ./1
+toc: false
 ---
 
-{{< cards cols="1" >}}
-  {{< card link="../1.md" title="Chapter 1" >}}
-  {{< card link="../2.md" title="Card with tag" >}}
-  {{< card link="../3.md" title="Card with tag" >}}
-  {{< card link="../4.md" title="Card with tag" >}}
-  {{< card link="../5.md" title="Card with tag" >}}
-  {{< card link="../6.md" title="Card with tag" >}}
-  {{< card link="../7.md" title="Card with tag" >}}
-  {{< card link="../8.md" title="Card with tag" >}}
-  {{< card link="../9.md" title="Card with tag" >}}
-  {{< card link="../10.md" title="Card with tag" >}}
-  {{< card link="../11.md" title="Card with tag" >}}
-  {{< card link="../12.md" title="Card with tag" >}}
-  {{< card link="../13.md" title="Card with tag" >}}
-  {{< card link="../14.md" title="Card with tag" >}}
-  {{< card link="../15.md" title="Card with tag" >}}
-  {{< card link="../16.md" title="Card with tag" >}}
-  {{< card link="../17.md" title="Card with tag" >}}
-  {{< card link="../18.md" title="Card with tag" >}}
-  {{< card link="../19.md" title="Card with tag" >}}
-  {{< card link="../20.md" title="Card with tag" >}}
-  {{< card link="../21.md" title="Card with tag" >}}
+{{< cards cols="5" >}}
+  {{< card link="../1.md" title="1" >}}
+  {{< card link="../2.md" title="2" >}}
+  {{< card link="../3.md" title="3" >}}
+  {{< card link="../4.md" title="4" >}}
+  {{< card link="../5.md" title="5" >}}
+  {{< card link="../6.md" title="6" >}}
+  {{< card link="../7.md" title="7" >}}
+  {{< card link="../8.md" title="8" >}}
+  {{< card link="../9.md" title="9" >}}
+  {{< card link="../10.md" title="10" >}}
+  {{< card link="../11.md" title="11" >}}
+  {{< card link="../12.md" title="12" >}}
+  {{< card link="../13.md" title="13" >}}
+  {{< card link="../14.md" title="14" >}}
+  {{< card link="../15.md" title="15" >}}
+  {{< card link="../16.md" title="16" >}}
+  {{< card link="../17.md" title="17" >}}
+  {{< card link="../18.md" title="18" >}}
+  {{< card link="../19.md" title="19" >}}
+  {{< card link="../20.md" title="20" >}}
+  {{< card link="../21.md" title="21" >}}
+  {{< card link="../22.md" title="22" >}}
+  {{< card link="../23.md" title="23" >}}
+  {{< card link="../24.md" title="24" >}}
+  {{< card link="../25.md" title="25" >}}
+  {{< card link="../26.md" title="26" >}}
+  {{< card link="../27.md" title="27" >}}
+  {{< card link="../28.md" title="28" >}}
+  {{< card link="../29.md" title="29" >}}
+  {{< card link="../30.md" title="30" >}}
+  {{< card link="../31.md" title="31" >}}
+  {{< card link="../32.md" title="32" >}}
+  {{< card link="../33.md" title="33" >}}
+  {{< card link="../34.md" title="34" >}}
+  {{< card link="../35.md" title="35" >}}
+  {{< card link="../36.md" title="36" >}}
+  {{< card link="../37.md" title="37" >}}
+  {{< card link="../38.md" title="38" >}}
+  {{< card link="../39.md" title="39" >}}
+  {{< card link="../40.md" title="40" >}}
+  {{< card link="../41.md" title="41" >}}
+  {{< card link="../42.md" title="42" >}}
+  {{< card link="../43.md" title="43" >}}
+  {{< card link="../44.md" title="44" >}}
+  {{< card link="../45.md" title="45" >}}
+  {{< card link="../46.md" title="46" >}}
+  {{< card link="../47.md" title="47" >}}
+  {{< card link="../48.md" title="48" >}}
+  {{< card link="../49.md" title="49" >}}
+  {{< card link="../50.md" title="50" >}}
+  {{< card link="../51.md" title="51" >}}
+  {{< card link="../52.md" title="52" >}}
+  {{< card link="../53.md" title="53" >}}
+  {{< card link="../54.md" title="54" >}}
+  {{< card link="../55.md" title="55" >}}
+  {{< card link="../56.md" title="56" >}}
+  {{< card link="../57.md" title="57" >}}
+  {{< card link="../58.md" title="58" >}}
+  {{< card link="../59.md" title="59" >}}
+  {{< card link="../60.md" title="60" >}}
+  {{< card link="../61.md" title="61" >}}
+  {{< card link="../62.md" title="62" >}}
+  {{< card link="../63.md" title="63" >}}
+  {{< card link="../64.md" title="64" >}}
+  {{< card link="../65.md" title="65" >}}
+  {{< card link="../66.md" title="66" >}}
+  {{< card link="../67.md" title="67" >}}
+  {{< card link="../68.md" title="68" >}}
+  {{< card link="../69.md" title="69" >}}
+  {{< card link="../70.md" title="70" >}}
+  {{< card link="../71.md" title="71" >}}
+  {{< card link="../72.md" title="72" >}}
+  {{< card link="../73.md" title="73" >}}
+  {{< card link="../74.md" title="74" >}}
+  {{< card link="../75.md" title="75" >}}
+  {{< card link="../76.md" title="76" >}}
+  {{< card link="../77.md" title="77" >}}
+  {{< card link="../78.md" title="78" >}}
+  {{< card link="../79.md" title="79" >}}
+  {{< card link="../80.md" title="80" >}}
+  {{< card link="../81.md" title="81" >}}
+  {{< card link="../82.md" title="82" >}}
+  {{< card link="../83.md" title="83" >}}
+  {{< card link="../84.md" title="84" >}}
+  {{< card link="../85.md" title="85" >}}
+  {{< card link="../86.md" title="86" >}}
+  {{< card link="../87.md" title="87" >}}
+  {{< card link="../88.md" title="88" >}}
+  {{< card link="../89.md" title="89" >}}
+  {{< card link="../90.md" title="90" >}}
+  {{< card link="../91.md" title="91" >}}
+  {{< card link="../92.md" title="92" >}}
+  {{< card link="../93.md" title="93" >}}
+  {{< card link="../94.md" title="94" >}}
+  {{< card link="../95.md" title="95" >}}
+  {{< card link="../96.md" title="96" >}}
+  {{< card link="../97.md" title="97" >}}
+  {{< card link="../98.md" title="98" >}}
+  {{< card link="../99.md" title="99" >}}
+  {{< card link="../100.md" title="100" >}}
+  {{< card link="../101.md" title="101" >}}
+  {{< card link="../102.md" title="102" >}}
+  {{< card link="../103.md" title="103" >}}
+  {{< card link="../104.md" title="104" >}}
+  {{< card link="../105.md" title="105" >}}
+  {{< card link="../106.md" title="106" >}}
+  {{< card link="../107.md" title="107" >}}
+  {{< card link="../108.md" title="108" >}}
+  {{< card link="../109.md" title="109" >}}
+  {{< card link="../110.md" title="110" >}}
+  {{< card link="../111.md" title="111" >}}
+  {{< card link="../112.md" title="112" >}}
+  {{< card link="../113.md" title="113" >}}
+  {{< card link="../114.md" title="114" >}}
+  {{< card link="../115.md" title="115" >}}
+  {{< card link="../116.md" title="116" >}}
+  {{< card link="../117.md" title="117" >}}
+  {{< card link="../118.md" title="118" >}}
+  {{< card link="../119.md" title="119" >}}
+  {{< card link="../120.md" title="120" >}}
+  {{< card link="../121.md" title="121" >}}
+  {{< card link="../122.md" title="122" >}}
+  {{< card link="../123.md" title="123" >}}
+  {{< card link="../124.md" title="124" >}}
+  {{< card link="../125.md" title="125" >}}
+  {{< card link="../126.md" title="126" >}}
+  {{< card link="../127.md" title="127" >}}
+  {{< card link="../128.md" title="128" >}}
+  {{< card link="../129.md" title="129" >}}
+  {{< card link="../130.md" title="130" >}}
+  {{< card link="../131.md" title="131" >}}
+  {{< card link="../132.md" title="132" >}}
+  {{< card link="../133.md" title="133" >}}
+  {{< card link="../134.md" title="134" >}}
+  {{< card link="../135.md" title="135" >}}
+  {{< card link="../136.md" title="136" >}}
+  {{< card link="../137.md" title="137" >}}
+  {{< card link="../138.md" title="138" >}}
+  {{< card link="../139.md" title="139" >}}
+  {{< card link="../140.md" title="140" >}}
+  {{< card link="../141.md" title="141" >}}
+  {{< card link="../142.md" title="142" >}}
+  {{< card link="../143.md" title="143" >}}
+  {{< card link="../144.md" title="144" >}}
+  {{< card link="../145.md" title="145" >}}
+  {{< card link="../146.md" title="146" >}}
+  {{< card link="../147.md" title="147" >}}
+  {{< card link="../148.md" title="148" >}}
+  {{< card link="../149.md" title="149" >}}
+  {{< card link="../150.md" title="150" >}}
 {{< /cards >}}
