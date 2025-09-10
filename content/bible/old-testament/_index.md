@@ -1,6 +1,7 @@
 ---
 title: The Old Testament
 linkTitle: Old Testament
+prev: /bible
 next: /bible/new-testament
 type: docs
 weight: 1
