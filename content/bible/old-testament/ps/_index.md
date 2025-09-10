@@ -3,7 +3,7 @@ title: The Book of Psalms
 linkTitle: Psalms
 weight: 24
 type: docs
-prev: bible/old-testament/3-macc/7
+prev: bible/old-testament
 next: bible/old-testament/ps/1
 toc: false
 ---
