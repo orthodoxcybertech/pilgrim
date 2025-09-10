@@ -47,8 +47,8 @@ params:
     displayLogo: true
     logo:
       path: static/apple-touch-icon.png
-      # dark: static/logo-dark.svg
-      link: /
+      dark: static/apple-touch-icon.png
+      link: /pilgrim
       width: 40
       height: 20
   
