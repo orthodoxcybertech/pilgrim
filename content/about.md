@@ -8,7 +8,7 @@ toc: false
 
 The team of Orthodox Christians behind this effort wishes to remain anonymous.
 
-# Sources used and abbreviations
+## Sources used and abbreviations
 - Holy Transfiguration Monastery: _A Prayer Book for Orthodox Christians_ [Boston.Prayer]
 - Holy Transfiguration Monastery: _Pocket Book of Hours_ [Boston.Hours]
 - Holy Trinity Publications: _The Unabbreviated Horologion_ [Jordanville.Hours]
@@ -18,5 +18,5 @@ The team of Orthodox Christians behind this effort wishes to remain anonymous.
 - Dn. David Hawthorne: revision of KJV New Testament in light of the Patristic Text [Hawthorne]
 - original material and edits [ed.]
 
-# No-AI disclaimer
+## No-AI disclaimer
 No "Artificial Intelligence" tools have been used in any capacity in the creation, publication, or distribution of this work.
