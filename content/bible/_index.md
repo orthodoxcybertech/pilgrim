@@ -1,12 +1,16 @@
 ---
-title: The Bible
+title: Bible
 link-title: Bible
-next: bible/gen/1
 toc: false
 ---
 
 {{< cards cols="2" >}}
-  {{< card link="../old-testament" title="Old Testament" >}}
-  {{< card link="../new-testament" title="New Testament" >}}
+  {{< card link="./old-testament" title="Old Testament" >}}
+  {{< card link="./new-testament" title="New Testament" >}}
+{{< /cards >}}
+
+{{< cards cols="1" >}}
+  {{< card link="./frontmatter" title="Frontmatter" >}}
+  {{< card link="./appendices" title="Appendices" >}}
 {{< /cards >}}
 
