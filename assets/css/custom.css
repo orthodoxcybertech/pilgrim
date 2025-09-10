@@ -19,7 +19,7 @@ body {
 
 /* primary colour */
 :root {
-  --primary-hue: 54deg;
+  --primary-hue: 52deg;
   --primary-saturation: 90%;
   --primary-lightness: 75%;
 }
