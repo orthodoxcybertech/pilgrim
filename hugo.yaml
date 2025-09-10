@@ -38,6 +38,9 @@ menu:
     #    icon: github
 
 params:
+  search:
+    flexsearch:
+      tokenize: full
   page:
     # full (100%), wide (90rem), normal (1280px)
     width: full
