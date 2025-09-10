@@ -1,7 +1,6 @@
 ---
 title: The Old Testament
 linkTitle: Old Testament
-prev: /bible
 next: /bible/new-testament
 type: docs
 weight: 1
@@ -10,11 +9,11 @@ toc: false
 
 ## The Five Books of the Law ("Pentateuch")
 {{< cards cols="1" >}}
-  {{< card link="./gen.md" title="Genesis" >}}
-  {{< card link="./ex.md" title="Exodus" >}}
-  {{< card link="./lev.md" title="Leviticus" >}}
-  {{< card link="./num.md" title="Numbers" >}}
-  {{< card link="./deut.md" title="Deuteronomy" >}}
+  {{< card link="./gen" title="Genesis" >}}
+  {{< card link="./ex" title="Exodus" >}}
+  {{< card link="./lev" title="Leviticus" >}}
+  {{< card link="./num" title="Numbers" >}}
+  {{< card link="./deut" title="Deuteronomy" >}}
 {{< /cards >}}
 
 ## The Books of History
@@ -66,11 +65,11 @@ toc: false
 {{< /cards >}}
 ### The Major Prophets
 {{< cards cols="1" >}}
-  {{< card link="../is" title="Isaiah" >}}
-  {{< card link="../jer" title="Jeremiah" >}}
-  {{< card link="../bar" title="Baruch" >}}
-  {{< card link="../lam" title="Lamentations" >}}
-  {{< card link="../ep-jer" title="Epistle of Jeremiah" >}}
-  {{< card link="../ezek" title="Ezekiel" >}}
-  {{< card link="../dan" title="Daniel" >}}
+  {{< card link="./is" title="Isaiah" >}}
+  {{< card link="./jer" title="Jeremiah" >}}
+  {{< card link="./bar" title="Baruch" >}}
+  {{< card link="./lam" title="Lamentations" >}}
+  {{< card link="./ep-jer" title="Epistle of Jeremiah" >}}
+  {{< card link="./ezek" title="Ezekiel" >}}
+  {{< card link="./dan" title="Daniel" >}}
 {{< /cards >}}
