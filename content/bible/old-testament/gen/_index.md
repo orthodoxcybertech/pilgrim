@@ -2,8 +2,8 @@
 title: The Book of Genesis
 linkTitle: Genesis
 type: docs
-prev: /bible
-next: ./1
+prev: bible/old-testament
+next: bible/old-testament/gen/1
 toc: false
 ---
 
