@@ -4,7 +4,7 @@ type: about
 toc: false
 ---
 
-**Pilgrim** is a website and app for (Eastern) Orthodox Christians who wish to pray in beautiful traditional English. It currently features a prayer book and bible compiled from various traditional English translations. A dynamic service compilation tool is in development, to be a fully-featured counterpart to liturgy.io and the Greek Orthodox Archdiocese of America's Digital Chant Stand.
+**Pilgrim** is a website and app for Orthodox Christians (which the world calls "Eastern Orthodox") who wish to pray in beautiful traditional English. It currently features a prayer book and bible compiled from various traditional English translations. A dynamic service compilation tool is in development, to be a fully-featured counterpart to liturgy.io and the Greek Orthodox Archdiocese of America's Digital Chant Stand.
 
 The team of Orthodox Christians behind this effort wishes to remain anonymous.
 
