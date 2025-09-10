@@ -19,4 +19,4 @@ The team of Orthodox Christians behind this effort wishes to remain anonymous.
 - original material and edits [ed.]
 
 # No-AI disclaimer
-No "Artificial Intelligence" tools have been used in any capacity in the creation, publication, or distribution of this work. Every line of code was written by hand.
+No "Artificial Intelligence" tools have been used in any capacity in the creation, publication, or distribution of this work.
