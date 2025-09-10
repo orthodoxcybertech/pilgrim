@@ -3,7 +3,7 @@ title: The Book of Exodus
 linkTitle: Exodus
 weight: 2
 type: docs
-prev: bible/old-testament/gen/50
+prev: bible/old-testament
 next: bible/old-testament/ex/1
 toc: false
 ---
