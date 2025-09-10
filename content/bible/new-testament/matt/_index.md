@@ -2,7 +2,7 @@
 title: The Gospel According to Matthew
 linkTitle: Matthew
 type: docs
-prev: /bible
+prev: bible/new-testament
 next: ./1
 toc: false
 ---
