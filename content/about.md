@@ -19,4 +19,4 @@ The team of Orthodox Christians behind this effort wishes to remain anonymous.
 - original material and edits [ed.]
 
 ## AI disclaimer
-This work has been completed largely by hand, with sparing use of "Artificial Intelligence" tools for menial tasks (for instance, extending a list of chapters from 1–10 to 1–150).
+This work has been completed almost completely by hand, with only sparing use of "Artificial Intelligence" tools for menial tasks (for instance, extending a list of chapters from 1–10 to 1–150).
