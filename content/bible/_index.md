@@ -9,8 +9,9 @@ toc: false
   {{< card link="./new-testament" title="New Testament" >}}
 {{< /cards >}}
 
-{{< cards cols="1" >}}
+## Additionally
+
+{{< cards cols="2" >}}
   {{< card link="./frontmatter" title="Frontmatter" >}}
   {{< card link="./appendices" title="Appendices" >}}
 {{< /cards >}}
-
