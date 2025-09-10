@@ -40,7 +40,7 @@ menu:
 params:
   theme:
     # light | dark | system
-    default: system
+    default: dark
     displayToggle: true
   navbar:
     displayTitle: true
@@ -48,7 +48,7 @@ params:
 
   footer:
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
 
   editURL:
     enable: false
