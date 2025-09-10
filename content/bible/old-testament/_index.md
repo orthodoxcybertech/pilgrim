@@ -37,7 +37,8 @@ toc: false
   {{< card link="./2-macc" title="II Maccabees" >}}
   {{< card link="./3-macc" title="III Maccabees" >}}
 {{< /cards >}}
-# The Books of Wisdom
+
+## The Books of Wisdom
 {{< cards cols="1" >}}
   {{< card link="./ps" title="Psalms" >}}
   {{< card link="./job" title="Job" >}}
@@ -47,7 +48,9 @@ toc: false
   {{< card link="./wis" title="Wisdom" >}}
   {{< card link="./sir" title="Sirach" >}}
 {{< /cards >}}
+
 ## The Books of Prophecy
+
 ### The Twelve Minor Prophets
 {{< cards cols="1" >}}
   {{< card link="./hos" title="Hosea" >}}
@@ -63,6 +66,7 @@ toc: false
   {{< card link="./zech" title="Zechariah" >}}
   {{< card link="./mal" title="Malachi" >}}
 {{< /cards >}}
+
 ### The Major Prophets
 {{< cards cols="1" >}}
   {{< card link="./is" title="Isaiah" >}}
