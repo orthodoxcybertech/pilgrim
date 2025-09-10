@@ -17,3 +17,6 @@ The team of Orthodox Christians behind this effort wishes to remain anonymous.
 - Michael Asser: revision and expansion of KJV Old Testament in light of the Septuagint [Asser]
 - Dn. David Hawthorne: revision of KJV New Testament in light of the Patristic Text [Hawthorne]
 - original material and edits [ed.]
+
+# No-AI disclaimer
+No "Artificial Intelligence" tools have been used in any capacity in the creation, publication, or distribution of this work. Every line of code was written by hand.
