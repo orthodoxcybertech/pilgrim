@@ -19,7 +19,7 @@ The team of Orthodox Christians comprising the Pilgrim Initiative wishes to rema
 - [Holy Transfiguration Monastery (Boston)](https://www.bostonmonks.com/)
   - [Bost.PB1]: [_A Prayer Book for Orthodox Christians_](https://www.bostonmonks.com/product_info.php/products_id/576)
   - [Bost.PB2]: [_Pocket Book of Hours_](https://www.bostonmonks.com/product_info.php/products_id/961) by Holy Transfiguration Monastery (Boston)
-- original additions and edits [ed.]
+- [ed.]: the editors (i.e., the Pilgrim Initiative team)
 
 ## Technology and typography
 {{< callout type="info" >}}
