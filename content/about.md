@@ -10,7 +10,7 @@ toc: false
 The team of Orthodox Christians comprising the Pilgrim Initiative wishes to remain anonymous.
 
 ## Sources
-- [Asser]: Michael Asser's [Septuagint] (http://bibles.wikidot.com/asser): a revision and expansion of the KJV Old Testament in light of the Septuagint.
+- [Asser]: Michael Asser's [Septuagint](http://bibles.wikidot.com/asser): a revision and expansion of the KJV Old Testament in light of the Septuagint.
 - [James]: David Mitchell James' Psalter ([_A Psalter for Prayer_](https://holytrinitypublications.com/product/a-psalter-for-prayer-2/) published by Holy Trinity Publications): a revision of Coverdale's Psalter in light of the Septuagint.
 - [Hawth.]: Dn. David Hawthorne's [New Testament](https://www.christianorthodox.net/orthodox-new-testament/king-james-version-patriarchal-text/): a revision of the KJV New Testament in light of the Patristic Text.
 - [Holy Trinity Publications (Jordanville)](https://holytrinitypublications.com/)
