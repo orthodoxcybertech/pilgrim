@@ -1,5 +1,6 @@
 ---
 title: About
+weight: 10
 type: about
 toc: false
 ---
