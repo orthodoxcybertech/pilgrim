@@ -12,7 +12,7 @@ The team of Orthodox Christians behind the initiative wish to remain anonymous.
 
 ## Typography and technology
 {{< callout type="info" >}}
-  {{< This work has been completed almost completely by hand, with only sparing use of "Artificial Intelligence" tools for menial tasks (for instance, extending a list of chapters from 1–10 to 1–150). >}}
+  This work has been completed almost completely by hand, with only sparing use of "Artificial Intelligence" tools for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
 {{</ callout >}}
 
 Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
