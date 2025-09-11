@@ -24,6 +24,6 @@ The team of Orthodox Christians behind the Initiative wish to remain anonymous.
   The research and coding work of the Initiative is consciously being undertaken almost entirely "by hand", with only sparing use "Artificial Intelligence" services for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
 {{</ callout >}}
 
-The website is built using [Hugo]() with the [Hextra](https://themes.gohugo.io/themes/hextra/) theme.
+The website is built with [Hugo](https://gohugo.io/), using the [Hextra](https://themes.gohugo.io/themes/hextra/) theme as a starting point.
 
 Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
