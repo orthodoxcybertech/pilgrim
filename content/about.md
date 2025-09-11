@@ -9,6 +9,15 @@ toc: false
 
 The team of Orthodox Christians behind the initiative wish to remain anonymous.
 
+## Sources
+- [Holy Transfiguration Monastery (Boston)](https://www.bostonmonks.com/): [_A Prayer Book for Orthodox Christians_](https://www.bostonmonks.com/product_info.php/products_id/576) [Bost.PB1]
+- Holy Transfiguration Monastery: [_Pocket Book of Hours_](https://www.bostonmonks.com/product_info.php/products_id/961) [Bost.PB2]
+- [Holy Trinity Publications (Jordanville)](https://holytrinitypublications.com/): [_The Unabbreviated Horologion or Book of the Hours_](https://holytrinitypublications.com/product/the-unabbreviated-horologion-or-book-of-the-hours/) [Jord.Hours]
+- Holy Trinity Publications: [_Prayer Book_](https://holytrinitypublications.com/product/prayer-book/) [Jord.PB]
+- David Mitchell James & Holy Trinity Publications: [_A Psalter for Prayer_](https://holytrinitypublications.com/product/a-psalter-for-prayer-2/) [James]
+- [Michael Asser](http://bibles.wikidot.com/asser): revision and expansion of KJV Old Testament in light of the Septuagint [Asser]
+- [Dn. David Hawthorne](https://www.christianorthodox.net/orthodox-new-testament/king-james-version-patriarchal-text/): revision of KJV New Testament in light of the Patristic Text [Hawth.]
+- original additions and edits [ed.]
 
 ## Typography and technology
 {{< callout type="info" >}}
@@ -17,14 +26,4 @@ The team of Orthodox Christians behind the initiative wish to remain anonymous.
 
 Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
 
-The website is built using Hugo with the [Hextra](https://themes.gohugo.io/themes/hextra/) theme.
-
-## Sources used and abbreviations
-- Holy Transfiguration Monastery: _A Prayer Book for Orthodox Christians_ [Boston.Prayer]
-- Holy Transfiguration Monastery: _Pocket Book of Hours_ [Boston.Hours]
-- Holy Trinity Publications: _The Unabbreviated Horologion_ [Jordanville.Hours]
-- Holy Trinity Publications: The _Jordanville Prayer Book_ [Jordanville.Prayer]
-- David Mitchell James & Holy Trinity Publications: _A Psalter for Prayer_ [DMJ]
-- Michael Asser: revision and expansion of KJV Old Testament in light of the Septuagint [Asser]
-- Dn. David Hawthorne: revision of KJV New Testament in light of the Patristic Text [Hawthorne]
-- original material and edits [ed.]
+The website is built using [Hugo]() with the [Hextra](https://themes.gohugo.io/themes/hextra/) theme.
