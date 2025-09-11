@@ -1,6 +1,7 @@
 ---
 title: Bible
 link-title: Bible
+weight: 1
 toc: false
 ---
 
