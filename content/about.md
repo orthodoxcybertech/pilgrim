@@ -27,4 +27,4 @@ The team of Orthodox Christians comprising the Pilgrim Initiative wishes to rema
 {{</ callout >}}
 
 - Built with [Hugo](https://gohugo.io/) using the [Hextra](https://themes.gohugo.io/themes/hextra/) theme as a starting point.
-- Rendered (if supported by your browser) in the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
+- Rendered (if supported by your browser) in the [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
