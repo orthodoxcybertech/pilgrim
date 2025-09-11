@@ -34,10 +34,11 @@ body {
   -webkit-font-feature-settings: "dlig";
   font-feature-settings: "dlig"; */
   
-  /*swash = true*/
+  /*swash = true
   -moz-font-feature-settings: "swsh";
   -webkit-font-feature-settings: "swsh";
   font-feature-settings: "swsh";
+  */
 
   /*oldstyle figures = true
   font-variant-numeric: oldstyle-nums;
@@ -46,16 +47,17 @@ body {
   font-feature-settings: "onum";*/
 }
 
-/*italics swash = false */
+/*italics swash = false
 i {
   -moz-font-feature-settings: "swsh" 0;
   -webkit-font-feature-settings: "swsh" 0;
   font-feature-settings: "swsh" 0;
 }
+*/
 
 /*swash italics = swish*/
 swish- {
-  font-decoration: italics;
+  font-style: italic;
   -moz-font-feature-settings: "swsh" 1;
   -webkit-font-feature-settings: "swsh" 1;
   font-feature-settings: "swsh" 1;
