@@ -21,7 +21,7 @@ The team of Orthodox Christians behind the Initiative wish to remain anonymous.
 
 ## Typography and technology
 {{< callout type="info" >}}
-  The research and coding work of the Initiative is being undertaken almost entirely "by hand", with only sparing use "Artificial Intelligence" services for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
+  The research and coding work of the Initiative is consciously being undertaken almost entirely "by hand", with only sparing use "Artificial Intelligence" services for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
 {{</ callout >}}
 
 Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
