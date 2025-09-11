@@ -5,7 +5,7 @@ type: about
 toc: false
 ---
 
-**Pilgrim** is an open-source, zero-revenue service for English-speaking Orthodox Christians (called by the world "Eastern Orthodox"). It endeavours to offer an accurate, beautiful, standardized English translation of the liturgical and devotional texts of the Orthodox Church to the faithful, leveraging the power and convenience of digital and cyber technologies.
+**Pilgrim** is an open-source, zero-revenue service for English-speaking Orthodox Christians (whom the world calls "Eastern Orthodox"). It endeavours to offer an accurate, beautiful, standardized English translation of the liturgical and devotional texts of the Orthodox Church to the faithful, leveraging the power and convenience of digital and cyber technologies.
 
 The team of Orthodox Christians behind the initiative wish to remain anonymous.
 
