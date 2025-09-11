@@ -6,6 +6,6 @@ toc: false
 ---
 
 {{< cards cols="2" >}}
-  {{< card link="./old-testament" title="The Old Testament" image="hospitality-of-abraham.gif" >}}
-  {{< card link="./new-testament" title="The New Testament" image="mystical-supper.jpg" >}}
+  {{< card link="./old-testament" title="The Old Testament" >}}
+  {{< card link="./new-testament" title="The New Testament" >}}
 {{< /cards >}}
