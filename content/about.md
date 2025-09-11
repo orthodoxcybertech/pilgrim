@@ -19,11 +19,11 @@ The team of Orthodox Christians behind the Initiative wish to remain anonymous.
 - [Dn. David Hawthorne](https://www.christianorthodox.net/orthodox-new-testament/king-james-version-patriarchal-text/): revision of KJV New Testament in light of the Patristic Text [Hawth.]
 - original additions and edits [ed.]
 
-## Typography and technology
+## Technology and typography
 {{< callout type="info" >}}
   The research and coding work of the Initiative is consciously being undertaken almost entirely "by hand", with only sparing use "Artificial Intelligence" services for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
 {{</ callout >}}
 
-Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
-
 The website is built using [Hugo]() with the [Hextra](https://themes.gohugo.io/themes/hextra/) theme.
+
+Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
