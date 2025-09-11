@@ -10,9 +10,9 @@ toc: false
 The team of Orthodox Christian comprising the Pilgrim Initiative wishes to remain anonymous.
 
 ## Sources
-- [Asser]: [Michael Asser](http://bibles.wikidot.com/asser): revision and expansion of KJV Old Testament in light of the Septuagint
-- [James]: [_A Psalter for Prayer_](https://holytrinitypublications.com/product/a-psalter-for-prayer-2/) by David Mitchell James (and published by Holy Trinity Publications)
-- [Hawth.]: [Dn. David Hawthorne](https://www.christianorthodox.net/orthodox-new-testament/king-james-version-patriarchal-text/): revision of KJV New Testament in light of the Patristic Text
+- [Asser]: [Michael Asser's](http://bibles.wikidot.com/asser) Septuagint: a revision and expansion of the KJV Old Testament in light of the Septuagint.
+- [James]: David Mitchell James' [_A Psalter for Prayer_](https://holytrinitypublications.com/product/a-psalter-for-prayer-2/) (published by Holy Trinity Publications): a revision of Coverdale's Psalter in light of the Septuagint.
+- [Hawth.]: [Dn. David Hawthorne's](https://www.christianorthodox.net/orthodox-new-testament/king-james-version-patriarchal-text/) KJV-PT: a revision of the KJV New Testament in light of the Patristic Text.
 - [Holy Trinity Publications (Jordanville)](https://holytrinitypublications.com/)
   - [Jord.Hours]: [_The Unabbreviated Horologion or Book of the Hours_](https://holytrinitypublications.com/product/the-unabbreviated-horologion-or-book-of-the-hours/)
   - [Jord.PB]: [_Prayer Book_](https://holytrinitypublications.com/product/prayer-book/) 
