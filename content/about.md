@@ -7,7 +7,7 @@ toc: false
 
 **Pilgrim** is an open-source, zero-revenue service for English-speaking Orthodox Christians (whom the world calls "Eastern Orthodox"). It endeavours to offer an accurate, beautiful, standardized English translation of the liturgical and devotional texts of the Orthodox Church to the faithful, leveraging the power and convenience of digital and cyber technologies.
 
-The team of Orthodox Christians behind the Initiative wish to remain anonymous.
+The Orthodox Christians comprising the Pilgrim Initiative wish to remain anonymous.
 
 ## Sources
 - [Holy Transfiguration Monastery (Boston)](https://www.bostonmonks.com/): [_A Prayer Book for Orthodox Christians_](https://www.bostonmonks.com/product_info.php/products_id/576) [Bost.PB1]
