@@ -7,7 +7,7 @@ toc: false
 
 **Pilgrim** is an open-source, zero-revenue service for English-speaking Orthodox Christians (whom the world calls "Eastern Orthodox"). It endeavours to offer an accurate, beautiful, standardized English translation of the liturgical and devotional texts of the Orthodox Church to the faithful, leveraging the power and convenience of digital and cyber technologies.
 
-The team of Orthodox Christians behind the initiative wish to remain anonymous.
+The team of Orthodox Christians behind the Initiative wish to remain anonymous.
 
 ## Sources
 - [Holy Transfiguration Monastery (Boston)](https://www.bostonmonks.com/): [_A Prayer Book for Orthodox Christians_](https://www.bostonmonks.com/product_info.php/products_id/576) [Bost.PB1]
@@ -21,7 +21,7 @@ The team of Orthodox Christians behind the initiative wish to remain anonymous.
 
 ## Typography and technology
 {{< callout type="info" >}}
-  This work has been completed almost completely by hand, with only sparing use of "Artificial Intelligence" tools for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
+  The research and coding work of the Initiative is being undertaken almost entirely "by hand", with only sparing use "Artificial Intelligence" services for menial tasks (e.g., extending a list of chapters from 1–10 to 1–150).
 {{</ callout >}}
 
 Pilgrim uses the open-source [_EB Garamond_](https://googlefonts.github.io/ebgaramond-specimen/ "See specimen.") typeface.
