@@ -6,9 +6,9 @@ toc: false
 <!-- icons: book-open; book-open; clock; database; question-mark-circle -->
 
 {{< cards cols="1" >}}
-  {{< card link="prayer-book" title="Prayer Book" >}}
-  {{< card link="bible" title="Bible" >}}
-  {{< card title="OrthoClock (Coming Soon)" >}}
-  {{< card title="Service Compiler (Coming Soon)" >}}
+  {{< card link="bible" title="Bible" subtitle="The most **accurate** and **beautiful** English translation of the Bible _ever_.">}}
+  {{< card link="prayer-book" title="Prayer Book" subtitle="A content rich prayer book fit for daily use year-round, including the Church's principle services, readings, and hymns, and a guide to the calendar, employing carefully considered _English terminology_ (e.g. Godbirther for _Theotokos_, Sabbath for Saturday, Postsupper for _Apodeipnon_/_Compline_, etc.). ">}}
+  {{< card title="OrthoClock (Coming Soon)" subtitle="Keep time with the contemporary and ancient Church, with support for the _Anno Mundi_ era and the traditional, _seasonal_ reckoning of hours observed by the Romans of the East.">}}
+  {{< card title="Synaxor (Coming Soon)" subtitle="A traditional English automatic service compiler for any date and service in the , similar to GOA's _Digital Chant Stand_ (formerly AGES) and ```liturgy.io'''.">}}
   {{< card link="about" title="About" >}}
 {{< /cards >}}
