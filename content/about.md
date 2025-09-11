@@ -7,7 +7,7 @@ toc: false
 
 **Pilgrim** is an open-source, zero-revenue service for English-speaking Orthodox Christians (whom the world calls "Eastern Orthodox"). It endeavours to offer an accurate, beautiful, standardized English translation of the liturgical and devotional texts of the Orthodox Church to the faithful, leveraging the power and convenience of digital and cyber technologies.
 
-The Orthodox Christians comprising the Pilgrim Initiative wish to remain anonymous.
+The team of Orthodox Christian comprising the Pilgrim Initiative wishes to remain anonymous.
 
 ## Sources
 - [Asser]: [Michael Asser](http://bibles.wikidot.com/asser): revision and expansion of KJV Old Testament in light of the Septuagint
