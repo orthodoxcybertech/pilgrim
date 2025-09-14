@@ -878,7 +878,7 @@ _Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 O Lord Who dost bless them that bless Thee and sanctify them that put their trust in Thee: Save Thy people and bless Thine inheritance; preserve the fullness of Thy Church, sanctify them that love the beauty of Thy house; do Thou glorify them by Thy divine power, and forsake us not that hope in Thee. Give peace to Thy world, to Thy churches, to the priests, and to all Thy people. For every good gift and every perfect gift is from above, and cometh down from Thee, the Father of lights, and unto Thee do we send up glory and thanksgiving and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages.
 
-_Ch._ Amen. Blessed be the name of the Lord from henceforth and for evermore. Thrice. And the 33rd Psalm may be chanted (usually not done, according to current practice.)
+_Ch._ Amen. Blessed be the name of the Lord from henceforth and for evermore. Thrice. And the 33rd Psalm may be chanted <nb->(usually not done, according to current practice.)</nb->
 
 _Pr.(Bp.)_ The blessing of the Lord be upon you, through His grace and love for mankind, always, now and ever, and unto the ages of ages.
 
@@ -888,12 +888,12 @@ _Pr.(Bp.)_ Glory to Thee, O Christ God, our hope, glory to Thee.
 
 _Ch._ Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
 
-Lord, have mercy. Thrice. Father _(Master)_, bless.
+Lord, have mercy. <nb->Thrice.<nb-> Father _(Master)_, bless.
 
 _Pr.(Bp.)_ May Christ our true God, (_On Sundays:_ Who rose from the dead), through the intercessions of His most pure Mother, of the holy and glorious apostles, of our father among the saints, John Chrysostom, archbishop of Constantinople (or Basil the Great, archbishop of Caesarea in Cappadocia), and Saint(s) <nb->N. (N.) (to whom the church is dedicated)</nb->, and Saint(s) <nb->N. (N.) (commemorated on this date)</nb->, of the holy and Righteous Ancestors of God, Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.
 
 _Ch._ Amen. <nb->And the Many Years:</nb->
 
-The Orthodox episcopate of the Church of ____;* our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of the _____)<\nb->,* and our lord the Most Reverend <nb->(Archbishop/Bishop N.)</nb->;* the brotherhood of this holy temple _(or monastery)_, and all Orthodox Christians:* preserve, O Lord, for many years.
+The Orthodox episcopate of the Church of ____;* our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of the _____)</nb->,* and our lord the Most Reverend <nb->(Archbishop/Bishop N.)</nb->;* the brotherhood of this holy temple _(or monastery)_, and all Orthodox Christians:* preserve, O Lord, for many years.
 
 **THUS ENDETH THE DIVINE LITURGY.**
