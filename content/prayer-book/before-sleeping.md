@@ -6,7 +6,7 @@ prev: /
 next: prayer-book/upon-waking
 toc: false
 ---
-_Source: [[Jord.PB]](/about)_
+_Source: [[Jord.PB]](about/#sources)_
 
 These prayers reflect the Russian practice. 
 
