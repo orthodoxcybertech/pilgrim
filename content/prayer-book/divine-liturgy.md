@@ -31,7 +31,7 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ For the Orthodox episcopate of the Church of ______; for our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of ______)</nb->; for our lord the Most Reverend <nb->(Archbishop/Bishop N., whose diocese it is)</nb->; for the venerable priesthood, the diaconate in Christ, for all the clergy and people, let us pray to the Lord.
 
-_Dn.(Pr.)_ For the suffering ______ <nb->(e.g. Russian)</nb-> land and its Orthodox people both in the homeland and in the diaspora, and for their salvation, let us pray to the Lord.
+_Dn.(Pr.)_ For the suffering ______ <nb->(e.g. Russian)</nb-> land and its Orthodox people _(both in the homeland and in the diaspora)_, and for their salvation, let us pray to the Lord.
 
 _Ch._ Lord, have mercy.
 
@@ -314,7 +314,7 @@ _Ch._ Amen. And they chant the Trisagion for a hierarchal service, below.
 
 <nb->If it be a non-hierarchal service, the Chorus hymns thus:</nb->
 
-Holy God, Holy Mighty, Holy Immortal, have mercy on us. Thrice.
+Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->Thrice.</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages.
 
@@ -421,37 +421,37 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ Have mercy on us, O God, according to Thy great mercy, we pray Thee, hearken and have mercy.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ Again we pray for the Orthodox episcopate of the Church of Russia; for our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; for our lord the Most Reverend (Archbishop or Bishop N., whose diocese it is); and all our brethren in Christ.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
-_Dn.(Pr.)_ Again we pray for the suffering Russian land and its Orthodox people both in the homeland and in the diaspora and for their salvation.
+_Dn.(Pr.)_ Again we pray for the suffering _______ land and its Orthodox people _(both in the homeland and in the diaspora)_ and for their salvation.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ Again we pray for this land, its authorities and armed forces.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ Again we pray to the Lord our God that He may deliver His people from enemies visible and invisible, and confirm in us oneness of mind, brotherly love, and piety.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ Again we pray for our brethren, the priests, priest-monks, and all our brethren in Christ.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
-_Dn.(Pr.)_ Again we pray for the blessed and ever-memorable, holy Orthodox patriarchs; for pious kings and right-believing queens; and for the founders of this holy temple (if it be a monastery: this holy monastery), and for our fathers and brethren gone to their rest before us, and the Orthodox here and everywhere laid to rest.
+_Dn.(Pr.)_ Again we pray for the blessed and ever-memorable, holy Orthodox patriarchs; for pious kings and right-believing queens; and for the founders of this holy temple _(if it be a monastery: this holy monastery)_, and for our fathers and brethren gone to their rest before us, and the Orthodox here and everywhere laid to rest.
 
-_Ch._ Lord, have mercy Thrice.
+_Ch._ Lord, have mercy <nb->Thrice.</nb->
 
 <nb->Here may be inserted various additional petitions, i.e., for the ill and afflicted, the newly-baptized, etc.</nb->
 
 _Dn.(Pr.)_ Again we pray for them that bring offerings and do good works in this holy and all-venerable temple; for them that minister and them that chant, and for all the people here present that await of Thee great and abundant mercy
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Pr.(Bp.)_ For a merciful God art Thou, and the Lover of mankind, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages.
 
@@ -477,15 +477,15 @@ _Ch._ Amen.
 
 _Dn.(Pr.)_ Have mercy on us, O God, according to Thy great mercy, we pray Thee, hearken and have mercy.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ Again we pray for the repose of the souls of the departed servants of God, N, N., and that they may be forgiven every transgression, both voluntary and involuntary.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ That the Lord God commit their souls to where the righteous repose.
 
-_Ch._ Lord, have mercy. Thrice.
+_Ch._ Lord, have mercy. <nb->Thrice.</nb->
 
 _Dn.(Pr.)_ The mercy of God, the kingdom of heaven, and the remission of their sins, let us ask of Christ the immortal King and our God.
 
@@ -878,7 +878,7 @@ _Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 O Lord Who dost bless them that bless Thee and sanctify them that put their trust in Thee: Save Thy people and bless Thine inheritance; preserve the fullness of Thy Church, sanctify them that love the beauty of Thy house; do Thou glorify them by Thy divine power, and forsake us not that hope in Thee. Give peace to Thy world, to Thy churches, to the priests, and to all Thy people. For every good gift and every perfect gift is from above, and cometh down from Thee, the Father of lights, and unto Thee do we send up glory and thanksgiving and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages.
 
-_Ch._ Amen. Blessed be the name of the Lord from henceforth and for evermore. Thrice. And the 33rd Psalm may be chanted <nb->(usually not done, according to current practice.)</nb->
+_Ch._ Amen. Blessed be the name of the Lord from henceforth and for evermore. <nb->Thrice.</nb-> And the 33rd Psalm may be chanted <nb->(usually not done, according to current practice.)</nb->
 
 _Pr.(Bp.)_ The blessing of the Lord be upon you, through His grace and love for mankind, always, now and ever, and unto the ages of ages.
 
@@ -888,7 +888,7 @@ _Pr.(Bp.)_ Glory to Thee, O Christ God, our hope, glory to Thee.
 
 _Ch._ Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
 
-Lord, have mercy. <nb->Thrice.<nb-> Father _(Master)_, bless.
+Lord, have mercy. <nb-><nb->Thrice.</nb-><nb-> Father _(Master)_, bless.
 
 _Pr.(Bp.)_ May Christ our true God, (_On Sundays:_ Who rose from the dead), through the intercessions of His most pure Mother, of the holy and glorious apostles, of our father among the saints, John Chrysostom, archbishop of Constantinople (or Basil the Great, archbishop of Caesarea in Cappadocia), and Saint(s) <nb->N. (N.) (to whom the church is dedicated)</nb->, and Saint(s) <nb->N. (N.) (commemorated on this date)</nb->, of the holy and Righteous Ancestors of God, Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.
 
