@@ -12,8 +12,9 @@ These prayers reflect the Russian practice. _[Jordanville]_
 ---
 
 <nb->Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb->
-In the name of the Father, and of the Son, and of the Holy Spirit. Amen.<br>
-  O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
 ### Trisagion.
 
