@@ -23,15 +23,15 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ For the peace of the whole world, the good estate of the holy churches of God, and the union of all, let us pray to the Lord.
 
-Ch. Lord, have mercy.
+_Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ For this holy temple, and for them that with faith, reverence, and the fear of God enter herein, let us pray to the Lord.
 
 _Ch._ Lord, have mercy.
 
-_Dn.(Pr.)_ For the Orthodox episcopate of the Church of Russia; for our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; for our lord the Most Reverend <nb->Archbishop/Bishop N. (whose diocese it is</nb->; for the venerable priesthood, the diaconate in Christ, for all the clergy and people, let us pray to the Lord.
+_Dn.(Pr.)_ For the Orthodox episcopate of the Church of ______; for our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of ______)</nb->; for our lord the Most Reverend <nb->(Archbishop/Bishop N., whose diocese it is)</nb->; for the venerable priesthood, the diaconate in Christ, for all the clergy and people, let us pray to the Lord.
 
-_Dn.(Pr.)_ For the suffering Russian land and its Orthodox people both in the homeland and in the diaspora, and for their salvation, let us pray to the Lord.
+_Dn.(Pr.)_ For the suffering ______ <nb->(e.g. Russian)</nb-> land and its Orthodox people both in the homeland and in the diaspora, and for their salvation, let us pray to the Lord.
 
 _Ch._ Lord, have mercy.
 
@@ -372,7 +372,7 @@ _Dn.(Pr.)_ Let us attend.
 
 _Rd.(Dn.)_ <nb->In those days, (if from Acts); Beloved, (if from I, II, or III John); Brethren, or Child Timothy, etc. (if from the Epistles of the Apostle Paul), and the reading.</nb->
 
-When the Epistle(s) is (are) concluded:
+<nb->When the Epistle(s) is (are) concluded:</nb->
 
 _Pr.(Bp.)_ Peace be unto thee.
 
