@@ -84,7 +84,7 @@ swish- {
 
 /* primary colour */
 :root {
-  --primary-hue: 1deg;
+  --primary-hue: 0deg;
   --primary-saturation: 74%;
   --primary-lightness: 45%;
 }
