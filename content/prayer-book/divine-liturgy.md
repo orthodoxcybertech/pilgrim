@@ -7,7 +7,7 @@ next: prayer-book/pre-consecrated
 toc: false
 ---
 
-_Dn._ Bless, master. <nb>(Said only if a deacon serves)</nb>
+_Dn._ Bless, master. <nb->(Said only if a deacon serves)</nb->
 
 _Pr._ Blessed is the kingdom of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto the ages of ages.
 
@@ -29,7 +29,7 @@ _Dn.(Pr.)_ For this holy temple, and for them that with faith, reverence, and th
 
 _Ch._ Lord, have mercy.
 
-_Dn.(Pr.)_ For the Orthodox episcopate of the Church of Russia; for our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; for our lord the Most Reverend <nb>Archbishop/Bishop N. (whose diocese it is</nb>; for the venerable priesthood, the diaconate in Christ, for all the clergy and people, let us pray to the Lord.
+_Dn.(Pr.)_ For the Orthodox episcopate of the Church of Russia; for our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; for our lord the Most Reverend <nb->Archbishop/Bishop N. (whose diocese it is</nb->; for the venerable priesthood, the diaconate in Christ, for all the clergy and people, let us pray to the Lord.
 
 _Dn.(Pr.)_ For the suffering Russian land and its Orthodox people both in the homeland and in the diaspora, and for their salvation, let us pray to the Lord.
 
@@ -121,7 +121,7 @@ Both now and ever, and unto the ages of ages. Amen.
 Bless the Lord, O my soul, and all that is within me, bless His holy name; blessed art Thou, O Lord.
 
 
-<nb>In the parishes it is often the custom to chant only the following selected verses:</nb>
+<nb->In the parishes it is often the custom to chant only the following selected verses:</nb->
 
 Bless the Lord, O my soul; blessed art Thou; O Lord.
 
@@ -193,7 +193,7 @@ The Lord preserveth the proselytes. He shall adopt for His own the orphan and wi
 The Lord shall be king unto eternity; thy God, O Sion, unto generation and generation.
 
 
-<nb>Or if it be a simple service:</nb>
+<nb->Or if it be a simple service:</nb->
 
 ## The Second Daily Antiphon, Psalm 92:
 
@@ -206,7 +206,7 @@ Stichos 2: For He established the world which shall not be shaken. Refrain.
 Stichos 3: Thy testimonies are made very sure. Holiness becometh Thy house, O Lord unto length of days. Refrain.
 
 
-<nb>Then, regardless of which antiphon hath been chanted:</nb>
+<nb->Then, regardless of which antiphon hath been chanted:</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit, both now and ever, and unto the ages of ages. Amen.
 
@@ -228,7 +228,7 @@ _Pr._ For a good God art Thou, and the Lover of mankind, and unto Thee do we sen
 
 _Ch._ Amen.
 
-<nb>And they chant:</nb>
+<nb->And they chant:</nb->
 
 ## THE THIRD ANTIPHON, THE BEATITUDES:
 In Thy kingdom remember us, O Lord, when Thou comest in Thy kingdom.
@@ -258,7 +258,7 @@ Glory to the Father, and to the Son, and to the Holy Spirit;
 Both now and ever, and unto the ages of ages. Amen.
 
 
-<nb>Or if it be a simple service:</nb>
+<nb->Or if it be a simple service:</nb->
 
 ## The Third Daily Antiphon, Psalm 94:
 
@@ -280,7 +280,7 @@ _Dn.(Pr.)_ Wisdom! Aright!
 
 _Ch._ O come, let us worship and fall down before Christ; O Son of God (Sundays: Who didst rise from the dead) (on feasts of the Theotokos: through the prayers of the Theotokos) (On weekdays: Who art wondrous in the saints), save us who chant unto Thee: Alleluia, alleluia, alleluia.
 
-</nb>Then the troparia and kontakia are chanted according to the Typicon. Then:</nb>
+</nb->Then the troparia and kontakia are chanted according to the Typicon. Then:</nb->
 
 _Pr.(Bp.)_ For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever: (If a deacon serve, the priest (bishop) stops here; if a priest serve alone, the priest continues: and unto the ages of ages. And the chanters proceed to the Trisagion after Amen).
 
@@ -292,10 +292,10 @@ _Dn._ And unto the ages of ages.
 
 _Ch._ Amen. And they chant the Trisagion.
 
-<nb>If there be no deacon, the "O Lord, save the pious" is omitted.</nb>
+<nb->If there be no deacon, the "O Lord, save the pious" is omitted.</nb->
 
 
-<nb>If it be a hierarchal service, instead of the foregoing sequence the "O Lord, save the pious" is done thus:<.nb>
+<nb->If it be a hierarchal service, instead of the foregoing sequence the "O Lord, save the pious" is done thus:<.nb->
 
 _Bp._ For holy art Thou, O our God, and unto Thee do we send up glory: to the Father, and to the Son, and to the Holy Spirit, now and ever:
 
@@ -312,7 +312,7 @@ _Dn._ And unto the ages of ages.
 _Ch._ Amen. And they chant the Trisagion for a hierarchal service, below.
 
 
-<nb>If it be a non-hierarchal service, the Chorus hymns thus:</nb>
+<nb->If it be a non-hierarchal service, the Chorus hymns thus:</nb->
 
 Holy God, Holy Mighty, Holy Immortal, have mercy on us. Thrice.
 
@@ -322,7 +322,7 @@ Holy Immortal, have mercy on us.
 
 Holy God, Holy Mighty, Holy Immortal, have mercy on us.
 
-<nb>If it be a hierarchal service, the Trisagion is done thus:</nb>
+<nb->If it be a hierarchal service, the Trisagion is done thus:</nb->
 
 _Ch._ Holy God, Holy Mighty, Holy Immortal, have mercy on us. Once.
 
@@ -338,7 +338,7 @@ _Ch._ Holy Mighty. And the bishop may repeat the above in a third language, or h
 
 _Ch._ Holy Immortal, have mercy on us.
 
-<nb>Then, rapidly:</nb> Holy God, Holy Mighty, Holy Immortal, have mercy on us. Once.
+<nb->Then, rapidly:</nb-> Holy God, Holy Mighty, Holy Immortal, have mercy on us. Once.
 
 _Clergy:_ Holy God, Holy Mighty, Holy Immortal, have mercy on us.
 
@@ -358,19 +358,19 @@ _Rd.(Dn.)_ And to thy spirit.
 
 _Dn.(Pr.)_ Wisdom!
 
-_Rd.(Dn.)_ The Prokeimenon in the _____ Tone. <nb>And he giveth the words of the prokeimenon. The chorus chants it.</nb>
+_Rd.(Dn.)_ The Prokeimenon in the _____ Tone. <nb->And he giveth the words of the prokeimenon. The chorus chants it.</nb->
 
-<nb>Rd.: Stichos. The chanters repeat the Prokeimenon.</nb>
+<nb->Rd.: Stichos. The chanters repeat the Prokeimenon.</nb->
 
-_Rd._ In the _____ Tone: <nb>(And he giveth the second prokeimenon). (Or, if there be only one prokeimeon, he will give either a second stichos or the first half of the prokeimeon, and the chanters chant the second half).</nb>
+_Rd._ In the _____ Tone: <nb->(And he giveth the second prokeimenon). (Or, if there be only one prokeimeon, he will give either a second stichos or the first half of the prokeimeon, and the chanters chant the second half).</nb->
 
 _Dn.(Pr.)_ Wisdom!
 
-_Rd.(Dn.)_ The Reading is from _____ <nb>(the Acts of the Holy Apostles) (the catholic Epistle of _____) (the Epistle of the holy Apostle Paul to the _____, or to Timothy, etc.)</nb>
+_Rd.(Dn.)_ The Reading is from _____ <nb->(the Acts of the Holy Apostles) (the catholic Epistle of _____) (the Epistle of the holy Apostle Paul to the _____, or to Timothy, etc.)</nb->
 
 _Dn.(Pr.)_ Let us attend.
 
-_Rd.(Dn.)_ <nb>In those days, (if from Acts); Beloved, (if from I, II, or III John); Brethren, or Child Timothy, etc. (if from the Epistles of the Apostle Paul), and the reading.</nb>
+_Rd.(Dn.)_ <nb->In those days, (if from Acts); Beloved, (if from I, II, or III John); Brethren, or Child Timothy, etc. (if from the Epistles of the Apostle Paul), and the reading.</nb->
 
 When the Epistle(s) is (are) concluded:
 
@@ -380,12 +380,12 @@ _Rd.(Dn.)_ And to thy spirit.
 
 _Dn.(Pr.)_ Wisdom!
 
-_Rd.(Dn.)_ Alleluia in the _____ Tone. <nb>(If there be two prokeimena, he will also give a stichos before the chanters chant the first time.)</nb>
+_Rd.(Dn.)_ Alleluia in the _____ Tone. <nb->(If there be two prokeimena, he will also give a stichos before the chanters chant the first time.)</nb->
 
-_Ch._ Alleluia, alleluia, alleluia <nb>(after each stichos)</nb>.
+_Ch._ Alleluia, alleluia, alleluia <nb->(after each stichos)</nb->.
 
 ## THE GOSPEL
-<nb>If a deacon serve, or if it be a hierarchal service:</nb>
+<nb->If a deacon serve, or if it be a hierarchal service:</nb->
 
 _Dn._ Bless, master, the bringer of the Good Tidings of the holy Apostle and Evangelist N.
 
@@ -403,7 +403,7 @@ _Ch._ Glory to Thee, O Lord, glory to Thee.
 
 _Dn.(Pr.)_ Let us attend.
 
-<nb>If a deacon read the Gospel, when he is finished, the priest (or bishop) saith:</nb>
+<nb->If a deacon read the Gospel, when he is finished, the priest (or bishop) saith:</nb->
 
 Peace be unto thee that bringest good tidings.
 
@@ -447,7 +447,7 @@ _Dn.(Pr.)_ Again we pray for the blessed and ever-memorable, holy Orthodox patri
 
 _Ch._ Lord, have mercy Thrice.
 
-<nb>Here may be inserted various additional petitions, i.e., for the ill and afflicted, the newly-baptized, etc.</nb>
+<nb->Here may be inserted various additional petitions, i.e., for the ill and afflicted, the newly-baptized, etc.</nb->
 
 _Dn.(Pr.)_ Again we pray for them that bring offerings and do good works in this holy and all-venerable temple; for them that minister and them that chant, and for all the people here present that await of Thee great and abundant mercy
 
@@ -459,7 +459,7 @@ _Ch._ Amen.
 
 
 ## THE PRAYER FOR THE SALVATION OF THE NATION
-<nb>(Usually omitted on great feasts)</nb>
+<nb->(Usually omitted on great feasts)</nb->
 
 _Dn.(Pr.)_ Let us pray to the Lord.
 
@@ -473,7 +473,7 @@ _Ch._ Amen.
 
 
 ## THE ECTENIA FOR THE DEPARTED
-<nb>(Not said if there was a vigil, polyeleos, or doxology)</nb>
+<nb->(Not said if there was a vigil, polyeleos, or doxology)</nb->
 
 _Dn.(Pr.)_ Have mercy on us, O God, according to Thy great mercy, we pray Thee, hearken and have mercy.
 
@@ -527,7 +527,7 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ Ye catechumens, bow your heads to the Lord.
 
-_Ch._ To Thee, O Lord. <nb>(Slowly, if there be no deacon serving.)</nb>
+_Ch._ To Thee, O Lord. <nb->(Slowly, if there be no deacon serving.)</nb->
 
 _Pr._ That they also with us may glorify Thy most honourable and majestic name: of the Father, and of the Son, and of the Holy Spirit, now and ever, and unto the ages of ages.
 
@@ -536,7 +536,7 @@ _Ch._ Amen.
 ## THE ECTENIA OF THE FAITHFUL
 _Dn.(Pr.)_ As many as are catechumens, depart; catechumens, depart; as many as are catechumens, depart; let none of the catechumens remain; as many as are of the faithful, again and again, in peace let us pray to the Lord.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 _Dn.(Pr.)_ Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
@@ -550,7 +550,7 @@ _Ch._ Amen.
 
 _Dn.(Pr.)_ Again and again, in peace let us pray to the Lord.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon.)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon.)</nb->
 
 If there be no deacon, the following four petitions are not said.
 
@@ -573,7 +573,7 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 _Dn.(Pr.)_ Wisdom!
 
@@ -585,7 +585,7 @@ _Ch._ Amen.
 _Ch._ Let us who mystically represent the Cherubim, and chant the thrice-holy hymn unto the life-creating Trinity, now lay aside all earthly care.
 
 ## THE GREAT ENTRY
-<nb>(If a bishop serve, the deacon commemorateth only him, and the bishop saith all the remaining commemorations.)</nb>
+<nb->(If a bishop serve, the deacon commemorateth only him, and the bishop saith all the remaining commemorations.)</nb->
 
 _Dn.(Pr.)_ The Orthodox episcopate of the Church of Russia; our lord the Very Most Reverend N., Metropolitan of Eastern America and New York, and First Hierarch of the Russian Church Abroad; and our lord the Most Reverend (Archbishop or Bishop N., whose diocese it is), may the Lord God remember in His kingdom, always, now and ever, and unto the ages of ages.
 
@@ -610,7 +610,7 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ That we may be delivered from all tribulation, wrath, and necessity, let us pray to the Lord.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 _Dn.(Pr.)_ Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
@@ -708,34 +708,34 @@ _Ch._ We praise Thee, we bless Thee, we give thanks unto Thee, O Lord; and we pr
 
 _Pr.(Bp.)_ Especially for our most holy, most pure, most blessed, glorious Lady Theotokos and Ever-Virgin Mary.
 
-<nb>If it be the Liturgy of St. John Chrysostom:</nb>
+<nb->If it be the Liturgy of St. John Chrysostom:</nb->
 
 _Ch._ It is truly meet to bless thee, the Theotokos, ever-blessed and most-blameless, and Mother of our God. More honourable than the Cherubim, and beyond compare more glorious than the Seraphim, who without corruption gavest birth to God the Word, the very Theotokos, thee do we magnify.
 
-<nb>But if it be the Liturgy of St. Basil the Great:</nb>
+<nb->But if it be the Liturgy of St. Basil the Great:</nb->
 
 _Ch._ In thee rejoiceth, O thou who art full of grace, all creation, the angelic assembly, and the race of man; O sanctified temple and noetical paradise, praise of virgins, of whom God was incarnate, and became a child, He that was before the ages, even our God; for of thy body a throne He made, and thy womb more spacious than the heavens did He form. In thee rejoiceth, O thou who art full of grace, all creation: glory to thee.
 
-<nb>Or, on the Great feasts, the appointed megalynarion.</nb>
+<nb->Or, on the Great feasts, the appointed megalynarion.</nb->
 
 _Pr._ Among the first, remember, O Lord the Orthodox episcopate of the Church of Russia; and our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; and our lord the Most Reverend (Archbishop or Bishop N. whose diocese it is), whom do Thou grant unto Thy holy churches, in peace, safety, honour, health, and length of days, rightly dividing the word of Thy truth.
 
 _Ch._ And each and every one.
 
 
-<nb>If it be a hierarchal liturgy, the deacon, coming out the holy doors after the megalynarion, faceth the people, saying.</nb>
+<nb->If it be a hierarchal liturgy, the deacon, coming out the holy doors after the megalynarion, faceth the people, saying.</nb->
 
 And each and every one.
 
 _Ch._ And each and every one.
 
-_Bp._ Among the first, remember, O Lord the Orthodox episcopate of the Church of Russia; and our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; and our lord the Most Reverend </nb>Archbishop(s) N. (N.) or Bishop(s) N. (N) (naming any other bishops present, but not naming himself)<nb>, whom do Thou grant unto Thy holy churches, in peace, safety, honour, health, and length of days, rightly dividing the word of Thy truth.
+_Bp._ Among the first, remember, O Lord the Orthodox episcopate of the Church of Russia; and our lord the Very Most Reverend Metropolitan N., First Hierarch of the Russian Church Abroad; and our lord the Most Reverend </nb->Archbishop(s) N. (N.) or Bishop(s) N. (N) (naming any other bishops present, but not naming himself)<nb->, whom do Thou grant unto Thy holy churches, in peace, safety, honour, health, and length of days, rightly dividing the word of Thy truth.
 
-<nb>And the deacon entereth the holy doors, saying as he goeth:</nb>
+<nb->And the deacon entereth the holy doors, saying as he goeth:</nb->
 
-And our lord the Most Reverend <nb>(Archbishop or Bishop N., whose diocese it is, or the bishop serving)</nb> offering these Holy Gifts </nb>(which the deacon indicateth with his right hand as he walketh past the Holy Table on the right side)</nb> to the Lord our God.
+And our lord the Most Reverend <nb->(Archbishop or Bishop N., whose diocese it is, or the bishop serving)</nb-> offering these Holy Gifts </nb->(which the deacon indicateth with his right hand as he walketh past the Holy Table on the right side)</nb-> to the Lord our God.
 
-<nb>And he boweth toward the High Place, and coming out the holy doors he again faceth the people, saying:</nb>
+<nb->And he boweth toward the High Place, and coming out the holy doors he again faceth the people, saying:</nb->
 
 For the honourable priesthood and for the diaconate in Christ, and for all those in the clerical and monastic orders; for our suffering Russian land and her Orthodox people both in the homeland and in the diaspora; for our brethren confined in prisons, and in bitter labours and in every affliction; for the peace and well-being of the whole world; for the well-being of the holy churches of God; for the salvation and help of our brethren who are labouring and serving with heedfulness and the fear of God; for the healing of them that lie in infirmities; for the repose, the release in blessed memory and remission of sins of all our fathers and brethren gone to their rest before us, and the Orthodox here and everywhere laid to rest; for the salvation of the people that stand here and pray, each of them calling to remembrance their transgressions; and in behalf of all and for all.
 
@@ -764,7 +764,7 @@ _Ch._ Lord, have mercy.
 
 _Dn.(Pr.)_ That we may be delivered from all tribulation, wrath, and necessity, let us pray to the Lord.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
 _Dn.(Pr.)_ Help us, save us, have mercy on us, and keep us, O God, by Thy grace.
 
@@ -812,11 +812,11 @@ _Ch._ And to thy spirit.
 
 _Dn.(Pr.)_ Bow your heads unto the Lord.
 
-_Ch._ To Thee, O Lord. <nb>(Slowly)</nb>
+_Ch._ To Thee, O Lord. <nb->(Slowly)</nb->
 
 _Pr.(Bp.)_ Through the grace and compassions and love for mankind of Thine Only-begotten Son, with Whom Thou art blessed, together with Thy Most-holy and good and life-creating Spirit, now and ever, and unto the ages of ages.
 
-_Ch._ Amen. <nb>(Slowly)</nb>
+_Ch._ Amen. <nb->(Slowly)</nb->
 
 _Dn.(Pr.)_ Let us attend!
 
@@ -824,7 +824,7 @@ _Pr.(Bp.)_ Holy Things are for the holy.
 
 _Ch._ One is Holy, One is Lord, Jesus Christ, to the glory of God the Father. Amen. And the communion verse of the day, or the saint, or the feast. For most Sundays it is: Praise the Lord from the heavens, praise Him in the highest. Alleluia, alleluia, alleluia.
 
-<nb>During the communion of the clergy selected hymns may be chanted, or the Prayers before Holy Communion may be read. Then:</nb>
+<nb->During the communion of the clergy selected hymns may be chanted, or the Prayers before Holy Communion may be read. Then:</nb->
 
 _Dn.(Pr.)_ With fear of God and with faith draw nigh.
 
@@ -836,7 +836,7 @@ Of Thy Mystical Supper, O Son of God, receive me today as a communicant; for I w
 
 Let not the communion of Thy holy Mysteries be unto me for judgment or condemnation, O Lord, but for healing of soul and body.
 
-<nb>And as each person receiveth Holy Communion, the priest (bishop) saith:</nb>
+<nb->And as each person receiveth Holy Communion, the priest (bishop) saith:</nb->
 
 The servant (or handmaid) of God, N., partaketh of the precious and holy Body and Blood of our Lord God and Saviour Jesus Christ, unto the remission of sins and life everlasting.
 
@@ -872,9 +872,9 @@ _Ch._ In the name of the Lord.
 
 _Dn.(Pr.)_ Let us pray to the Lord.
 
-_Ch._ Lord, have mercy. <nb>(Slowly, if there be no deacon)</nb>
+_Ch._ Lord, have mercy. <nb->(Slowly, if there be no deacon)</nb->
 
-<nb>Priest, the Prayer behind the Ambo:</nb>
+<nb->Priest, the Prayer behind the Ambo:</nb->
 
 O Lord Who dost bless them that bless Thee and sanctify them that put their trust in Thee: Save Thy people and bless Thine inheritance; preserve the fullness of Thy Church, sanctify them that love the beauty of Thy house; do Thou glorify them by Thy divine power, and forsake us not that hope in Thee. Give peace to Thy world, to Thy churches, to the priests, and to all Thy people. For every good gift and every perfect gift is from above, and cometh down from Thee, the Father of lights, and unto Thee do we send up glory and thanksgiving and worship: to the Father, and to the Son, and to the Holy Spirit, now and ever, and unto the ages of ages.
 
@@ -890,10 +890,10 @@ _Ch._ Glory to the Father, and to the Son, and to the Holy Spirit, both now and 
 
 Lord, have mercy. Thrice. Father _(Master)_, bless.
 
-_Pr.(Bp.)_ May Christ our true God, (_On Sundays:_ Who rose from the dead), through the intercessions of His most pure Mother, of the holy and glorious apostles, of our father among the saints, John Chrysostom, archbishop of Constantinople (or Basil the Great, archbishop of Caesarea in Cappadocia), and Saint(s) <nb>N. (N.) (to whom the church is dedicated)</nb>, and Saint(s) <nb>N. (N.) (commemorated on this date)</nb>, of the holy and Righteous Ancestors of God, Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.
+_Pr.(Bp.)_ May Christ our true God, (_On Sundays:_ Who rose from the dead), through the intercessions of His most pure Mother, of the holy and glorious apostles, of our father among the saints, John Chrysostom, archbishop of Constantinople (or Basil the Great, archbishop of Caesarea in Cappadocia), and Saint(s) <nb->N. (N.) (to whom the church is dedicated)</nb->, and Saint(s) <nb->N. (N.) (commemorated on this date)</nb->, of the holy and Righteous Ancestors of God, Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.
 
-_Ch._ Amen. <nb>And the Many Years:</nb>
+_Ch._ Amen. <nb->And the Many Years:</nb->
 
-The Orthodox episcopate of the Church of ____;* our lord the Very Most Reverend <nb>(Patriarch/Metropolitan/Archbishop N., First Hierarch of the _____)<\nb>,* and our lord the Most Reverend <nb>(Archbishop/Bishop N.)</nb>;* the brotherhood of this holy temple _(or monastery)_, and all Orthodox Christians:* preserve, O Lord, for many years.
+The Orthodox episcopate of the Church of ____;* our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of the _____)<\nb->,* and our lord the Most Reverend <nb->(Archbishop/Bishop N.)</nb->;* the brotherhood of this holy temple _(or monastery)_, and all Orthodox Christians:* preserve, O Lord, for many years.
 
 **THUS ENDETH THE DIVINE LITURGY.**
