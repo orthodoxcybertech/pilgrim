@@ -12,30 +12,31 @@ These prayers reflect the Russian practice. _[Jordanville]_
 ---
 
 <nb->Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb->
-
-In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
-<br>  O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
 ### Trisagion.
 
 Glory to Thee, our God, glory to Thee.	
 
 Heavenly King,<nb->*</nb-> O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
-<br>  <nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
-<br>  Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
-<br>  Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
-<br>  All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
-<br>  Lord, have mercy. <nb->(Thrice)</nb->
-<br>  Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
-<br>  Our Father, Which art in the Heavens, hallowed be Thy Name. Thy Kingdom come. Thy will be done, on earth as it is in Heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
+<br><nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Lord, have mercy. <nb->(Thrice)</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
+
+Our Father, Which art in the Heavens, hallowed be Thy Name. Thy Kingdom come. Thy will be done, on earth as it is in Heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
 
 ### Evening small-hymns.
 Have mercy on us, O Lord, have mercy on us; for at a loss for any defense, this prayer do we sinners offer unto Thee as Master: Have mercy on us.
-<br>  _Glory._
-<br>  Lord, have mercy on us, for we have hoped in Thee; be not angry with us greatly, neither remember our iniquities; but look upon us now as Thou art compassionate, and deliver us from our enemies, for Thou art our God, and we, Thy people; all are the works of the Thy hands, and we call upon Thy name.
-<br>  _Both now._
-<br>  The door of compassion open unto us, O Blessed Godbirther, for hoping in Thee, let us not perish; through Thee may we be delivered from adversities, for Thou art the salvation of the Christian race.
-<br>  Lord, have mercy. <nb->(Twelve times)</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;_Glory._
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Lord, have mercy on us, for we have hoped in Thee; be not angry with us greatly, neither remember our iniquities; but look upon us now as Thou art compassionate, and deliver us from our enemies, for Thou art our God, and we, Thy people; all are the works of the Thy hands, and we call upon Thy name.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;_Both now._
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The door of compassion open unto us, O Blessed Godbirther, for hoping in Thee, let us not perish; through Thee may we be delivered from adversities, for Thou art the salvation of the Christian race.
+
+Lord, have mercy. <nb->(Twelve times)</nb->
 
 ### Prayer I, of St. Macarius the Great.
 O Eternal God and King of all creation, Who hast vouchsafed me to arrive at this hour, forgive me the sins that I have committed this day in deed, word and thought; and cleanse, O Lord, my lowly soul of all impurity of flesh and spirit, and grant me, O Lord, to pass the sleep of this night in peace; that, rising from my lowly bed, I may please Thy most holy name all the days of my life and thwart the enemies, fleshly and bodiless, that war against me. And deliver me, O Lord, from vain thoughts and evil desires which defile me. For Thine is the kingdom and the power and the glory: of the Father, and of the Son, and of the Holy Spirit; now and ever, and unto the ages of ages. Amen.  
@@ -68,8 +69,7 @@ O Lord our God, in Whom we believe and Whose name we invoke above every name, gr
 10. O Lord my God, even though I have done nothing good in Thy sight, yet grant me by Thy grace to make a good beginning.
 11. O Lord, sprinkle into my heart the dew of Thy grace.
 12. O Lord of heaven and earth, remember me, Thy sinful servant, shameful and unclean, in Thy kingdom.
-
-Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Amen.
 
 1. O Lord, accept me in repentence.
 2. O Lord, forsake me not.
@@ -83,8 +83,7 @@ Amen.
 10. O Lord, vouchsafe me to love Thee with all my soul and thoughts and in all things to do Thy will.
 11. O Lord, protect me from evil men and demons and passions and from every other unseemly thing.
 12. O Lord, Thou knowest that Thou doest as Thou wilt: Thy will be done also in me a sinner; for blessed art Thou unto the ages of ages.
-
-Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Amen.
 
 ### Prayer VIII, to our Lord Jesus Christ.
 O Lord Jesus Christ, Son of God, for the sake of Thy most honourable Mother and Thy bodiless angels, Thy Prophet and Forerunner and Baptist, the God-inspired Apostles, the radiant and victorious Martyrs, the holy and God-bearing Fathers, and through the intercessions of all the Saints, deliver me from the besetting presence of the demons. Yea, my Lord and Creator, Who desirest not the death of a sinner, but rather that he be converted and live, grant conversion also to me, wretched and unworthy; rescue me from the mouth of the pernicious serpent, who is ravening to devour me and take me down to hades alive. Yea, my Lord, my Comfort, Who for my miserable sake wast clothed in corruptible flesh, draw me out of misery, and grant comfort to my miserable soul. Implant in my heart to fulfill Thy commandments and to forsake evil deeds and to obtain Thy blessings; for in Thee, O Lord, have I hoped, save me. Amen.
@@ -99,25 +98,17 @@ O angel of Christ, my holy guardian and protector of my soul and body, forgive m
 To Thee, the Champion Leader, we Thy servants dedicate a feast of victory and of thanksgiving as ones rescued out of sufferings, O Godbirther; but as Thou art one with might which is invincible, from all dangers that can be do Thou deliver us, that we may cry to Thee: Rejoice, Thou Bride Unwedded!
 
 <nb->Then:</nb->
-
-Most glorious, Ever-Virgin, Mother of Christ God, present our prayer to Thy Son and our God, that through Thee He may save our souls.
-
-All my hope I place in Thee, O Mother of God: keep me under Thy protection.
-
-O Virgin Godbirther, disdain not me a sinner, needing Thy help and Thy protection, and have mercy on me, for my soul hath hoped in Thee.
-
-My hope is the Father, my refuge is the Son, my protection is the Holy Spirit: O Holy Trinity, glory to Thee.
+<br>Most glorious, Ever-Virgin, Mother of Christ God, present our prayer to Thy Son and our God, that through Thee He may save our souls.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;All my hope I place in Thee, O Mother of God: keep me under Thy protection.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;O Virgin Godbirther, disdain not me a sinner, needing Thy help and Thy protection, and have mercy on me, for my soul hath hoped in Thee.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;My hope is the Father, my refuge is the Son, my protection is the Holy Spirit: O Holy Trinity, glory to Thee.
 
 ### Closing prayers.
 It is truly meet to bless Thee, the Godbirther, ever-blessed and most blameless and Mother of our God.	
-
-More honourable than the Cherubim, and beyond compare more glorious than the Seraphim, Thee Who without corruption gavest birth to God the Word, the very Godbirther, Thee do we magnify.
-
-Glory; both now. Lord, have mercy <nb->(thrice).</nb->
-
-O Lord, bless. <nb->And the dismissal:</nb->
-
-O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;More honourable than the Cherubim, and beyond compare more glorious than the Seraphim, Thee Who without corruption gavest birth to God the Word, the very Godbirther, Thee do we magnify.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Glory; both now. Lord, have mercy <nb->(thrice).</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;O Lord, bless. <nb->And the dismissal:</nb->
+<br>&nbsp;&nbsp;&nbsp;&nbsp;O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
 <nb->Then, pointing at thy bed, say:</nb->
 
@@ -125,47 +116,36 @@ O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mo
 O Master, Lover of mankind, is this bed to be my coffin or wilt Thou enlighten my wretched soul with another day? Behold, the coffin lieth before me; behold, death confronteth me. I fear, O Lord, Thy judgment and the endless torments, yet I cease not to do evil. My Lord God, I continually anger Thee and Thy most pure Mother and all the Heavenly Hosts and my holy guardian angel. I know, O Lord, that I am unworthy of Thy love for mankind, but am worthy of every condemnation and torment. But, O Lord, whether I will it or not, save me. For to save a righteous man is no great thing and to have mercy on the pure is nothing wonderful, for they are worthy of Thy mercy. But on me, a sinner, shew the wonder of Thy mercy; in this reveal Thy love for mankind, lest my wickedness prevail over Thine ineffable goodness and merciful kindness; and order my life as Thou wilt.
 
 <nb->And when about to lie down in bed, say these small-hymns:</nb->
-
-Enlighten mine eyes, O Christ God, lest at any time I sleep unto death, lest at any time mine enemy say: I have prevailed against him.
-
-_Glory._
-
-Be my soul’s helper, O God, for I pass through the midst of many snares; deliver me out of them, and save me, O Good One, for Thou art the Lover of mankind.
-
-_Both now._
-
-The most glorious Mother of God, more holy than the holy angels, let us hymn unceasingly with our hearts and mouths, confessing Her to be the Godbirther, for truly She gaveth birth to God incarnate for us and prayeth unceasingly for our souls.
-
-Then kiss thy cross, and with it make the sign of the cross from the head to the foot of the bed, and likewise from side to side, saying:
+<br>Enlighten mine eyes, O Christ God, lest at any time I sleep unto death, lest at any time mine enemy say: I have prevailed against him.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;_Glory._
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Be my soul’s helper, O God, for I pass through the midst of many snares; deliver me out of them, and save me, O Good One, for Thou art the Lover of mankind.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;_Both now._
+<br>&nbsp;&nbsp;&nbsp;&nbsp;The most glorious Mother of God, more holy than the holy angels, let us hymn unceasingly with our hearts and mouths, confessing Her to be the Godbirther, for truly She gaveth birth to God incarnate for us and prayeth unceasingly for our souls.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<nb->Then kiss thy cross, and with it make the sign of the cross from the head to the foot of the bed, and likewise from side to side, saying:</nb->
 
 ### Prayer of the Honourable Cross.
 Let God arise and let His enemies be scattered, and let them that hate Him flee from before His face. As smoke vanisheth, so let them vanish; as wax melteth before the fire, so let the demons perish from the presence of them who love God and who sign themselves with the sign of the cross and say in gladness:
-
-Rejoice, most venerable and life-giving Cross of the Lord,
-<br>for Thou drivest away the demons by the power of our Lord Jesus 	Christ Who was crucified on Thee,
-<br>Who went down to Hades and trampled on the power of the devil,
-<br>and gave us Thee, His venerable Cross, for the driving away of every 	adversary.
-<br>O most venerable and life-giving Cross of the Lord,
-<br>help me, together with the holy Lady Virgin Godbirther and all the 	saints,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Rejoice, most venerable and life-giving Cross of the Lord,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;for Thou drivest away the demons by the power of our Lord Jesus 	Christ Who was crucified on Thee,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Who went down to Hades and trampled on the power of the devil,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;and gave us Thee, His venerable Cross, for the driving away of every 	adversary.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;O most venerable and life-giving Cross of the Lord,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;help me, together with the holy Lady Virgin Godbirther and all the 	saints,
 unto the ages of ages. Amen.
 
 <nb->Or:</nb->
-
-Compass me about, O Lord, with the power of Thy precious and life-giving Cross, and preserve me from every evil.
+<br>Compass me about, O Lord, with the power of Thy precious and life-giving Cross, and preserve me from every evil.
 
 <nb->Finally, instead of asking forgiveness of anyone else:</nb->
-
-Remit, pardon, forgive, O God, our offences, both voluntary and involuntary, in word and deed, in knowledge and ignorance, by day and by night, in mind and thought; forgive us all things, for Thou art good and the Lover of mankind.
+<br>Remit, pardon, forgive, O God, our offences, both voluntary and involuntary, in word and deed, in knowledge and ignorance, by day and by night, in mind and thought; forgive us all things, for Thou art good and the Lover of mankind.
 
 <nb->And these prayers:</nb->
 
 ### Prayer for our neighbours, kindred, and brethren.
-
 O Lord, Lover of mankind, forgive those who hate and wrong us. Do good to those who do good. Grant our brethren and kindred their saving petitions and life eternal; visit the infirm and grant them healing. Guide those at sea. Journey with those who travel. Help Orthodox Christians to struggle. To those who serve and are kind to us grant remission of sins. On those who have charged us, the unworthy, to pray for them, have mercy according to Thy great mercy. Remember, O Lord, our fathers and brethren departed before us, and grant them rest where the light of Thy countenance shall visit them. Remember, O Lord, our brethren in captivity, and deliver them from every misfortune. Remember, O Lord, those who bear fruit and do good works in Thy holy churches, and grant them their saving petitions and life eternal. Remember also, O Lord, us Thy lowly and sinful and unworthy servants, and enlighten our minds with the light of Thy knowledge, and guide us in the way of Thy commandments; through the intercessions of our most pure Lady, the Godbirther and Ever-Virgin Mary, and of all Thy saints, for blessed art Thou unto the ages of ages. Amen.
 
 ### Daily confession of sins.
 I confess to Thee, my Lord God and Creator, in one Holy Trinity glorified and worshipped, to the Father, Son, and Holy Spirit, all my sins which I have committed in all the days of my life and at every hour, at the present time and in the past, day and night, by deed, word, or thought: gluttony, drunkenness, secret eating, idle talking, despondency, indolence, contradiction, disobedience, slandering, condemning, negligence, self-love, acquisitiveness, extortion, lying, dishonesty, mercenariness, jealousy, envy, anger, remembrance of wrongs, hatred, bribery; and by all my senses: sight, hearing, smell, taste, touch; and by the rest of my sins, of the soul together with the bodily, through which I have angered Thee, my God and Creator, and dealt unjustly with my neighbor. Sorrowing for these, I stand guilty before Thee, my God, but I have the will to repent. Only help me, O Lord my God, with tears I humbly entreat Thee. Forgive my past sins through Thy compassion, and absolve from all these which I have said in Thy presence, for Thou art good and the Lover of mankind.
 
 <nb->When giving thyself up to sleep, say:</nb->
-
-Into Thy hands, O Lord Jesus Christ my God, I commit my spirit. Do Thou bless me, do Thou have mercy on me, and grant me life eternal. Amen.
+<br>Into Thy hands, O Lord Jesus Christ my God, I commit my spirit. Do Thou bless me, do Thou have mercy on me, and grant me life eternal. Amen.
