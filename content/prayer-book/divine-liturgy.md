@@ -589,7 +589,7 @@ _Ch._ Let us who mystically represent the Cherubim, and chant the thrice-holy hy
 
 _Dn.(Pr.)_ The Orthodox episcopate of the Church of Russia; our lord the Very Most Reverend N., Metropolitan of Eastern America and New York, and First Hierarch of the Russian Church Abroad; and our lord the Most Reverend (Archbishop or Bishop N., whose diocese it is), may the Lord God remember in His kingdom, always, now and ever, and unto the ages of ages.
 
-_Pr._ The suffering Russian land and its Orthodox people both in the homeland and in the diaspora, this land, its authorities and the faithful that dwell therein, may the Lord God remember in His kingdom, always, now and ever, and unto the ages of ages.
+_Pr._ The suffering Russian land and its Orthodox people _(both in the homeland and in the diaspora, this land)_, its authorities and the faithful that dwell therein, may the Lord God remember in His kingdom, always, now and ever, and unto the ages of ages.
 
 The clergy, the monastics, all that are persecuted and suffer for the Orthodox Faith; the founders, benefactors, and the brotherhood of this holy temple (or monastery), and all of you Orthodox Christians, may the Lord God remember in His kingdom, always, now and ever, and unto the ages of ages.
 
@@ -737,7 +737,7 @@ And our lord the Most Reverend <nb->(Archbishop or Bishop N., whose diocese it i
 
 <nb->And he boweth toward the High Place, and coming out the holy doors he again faceth the people, saying:</nb->
 
-For the honourable priesthood and for the diaconate in Christ, and for all those in the clerical and monastic orders; for our suffering Russian land and her Orthodox people both in the homeland and in the diaspora; for our brethren confined in prisons, and in bitter labours and in every affliction; for the peace and well-being of the whole world; for the well-being of the holy churches of God; for the salvation and help of our brethren who are labouring and serving with heedfulness and the fear of God; for the healing of them that lie in infirmities; for the repose, the release in blessed memory and remission of sins of all our fathers and brethren gone to their rest before us, and the Orthodox here and everywhere laid to rest; for the salvation of the people that stand here and pray, each of them calling to remembrance their transgressions; and in behalf of all and for all.
+For the honourable priesthood and for the diaconate in Christ, and for all those in the clerical and monastic orders; for our suffering Russian land and her Orthodox people _(both in the homeland and in the diaspora)_; for our brethren confined in prisons, and in bitter labours and in every affliction; for the peace and well-being of the whole world; for the well-being of the holy churches of God; for the salvation and help of our brethren who are labouring and serving with heedfulness and the fear of God; for the healing of them that lie in infirmities; for the repose, the release in blessed memory and remission of sins of all our fathers and brethren gone to their rest before us, and the Orthodox here and everywhere laid to rest; for the salvation of the people that stand here and pray, each of them calling to remembrance their transgressions; and in behalf of all and for all.
 
 _Ch._ And in behalf of all and for all.
 
@@ -892,7 +892,9 @@ Lord, have mercy. <nb-><nb->Thrice.</nb-><nb-> Father _(Master)_, bless.
 
 _Pr.(Bp.)_ May Christ our true God, (_On Sundays:_ Who rose from the dead), through the intercessions of His most pure Mother, of the holy and glorious apostles, of our father among the saints, John Chrysostom, archbishop of Constantinople (or Basil the Great, archbishop of Caesarea in Cappadocia), and Saint(s) <nb->N. (N.) (to whom the church is dedicated)</nb->, and Saint(s) <nb->N. (N.) (commemorated on this date)</nb->, of the holy and Righteous Ancestors of God, Joachim and Anna, and of all the saints, have mercy on us and save us, for He is good and the Lover of mankind.
 
-_Ch._ Amen. <nb->And the Many Years:</nb->
+_Ch._ Amen.
+
+<nb->And the Many Years:</nb->
 
 The Orthodox episcopate of the Church of ____;* our lord the Very Most Reverend <nb->(Patriarch/Metropolitan/Archbishop N., First Hierarch of the _____)</nb->,* and our lord the Most Reverend <nb->(Archbishop/Bishop N.)</nb->;* the brotherhood of this holy temple _(or monastery)_, and all Orthodox Christians:* preserve, O Lord, for many years.
 
