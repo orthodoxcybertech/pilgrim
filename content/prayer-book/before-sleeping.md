@@ -12,9 +12,9 @@ These prayers reflect the Russian practice. _[Jordanville]_
 ---
 
 <nb->Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb->
-In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
 
-O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+<br>  O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
 ### Trisagion.
 
@@ -22,31 +22,20 @@ Glory to Thee, our God, glory to Thee.
 
 Heavenly King,<nb->*</nb-> O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
 <br>  <nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
-
-Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
-
-Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
-
-All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
-
-Lord, have mercy. <nb->(Thrice)</nb->
-
-Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
-
-Our Father, Which art in the Heavens, hallowed be Thy Name. Thy Kingdom come. Thy will be done, on earth as it is in Heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
+<br>  Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
+<br>  Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
+<br>  All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
+<br>  Lord, have mercy. <nb->(Thrice)</nb->
+<br>  Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
+<br>  Our Father, Which art in the Heavens, hallowed be Thy Name. Thy Kingdom come. Thy will be done, on earth as it is in Heaven. Give us this day our daily bread. And forgive us our debts, as we forgive our debtors. And lead us not into temptation, but deliver us from the evil one.
 
 ### Evening small-hymns.
 Have mercy on us, O Lord, have mercy on us; for at a loss for any defense, this prayer do we sinners offer unto Thee as Master: Have mercy on us.
-
-_Glory._
-
-Lord, have mercy on us, for we have hoped in Thee; be not angry with us greatly, neither remember our iniquities; but look upon us now as Thou art compassionate, and deliver us from our enemies, for Thou art our God, and we, Thy people; all are the works of the Thy hands, and we call upon Thy name.
-
-_Both now._
-
-The door of compassion open unto us, O Blessed Godbirther, for hoping in Thee, let us not perish; through Thee may we be delivered from adversities, for Thou art the salvation of the Christian race.
-
-Lord, have mercy. <nb->(Twelve times)</nb->
+<br>  _Glory._
+<br>  Lord, have mercy on us, for we have hoped in Thee; be not angry with us greatly, neither remember our iniquities; but look upon us now as Thou art compassionate, and deliver us from our enemies, for Thou art our God, and we, Thy people; all are the works of the Thy hands, and we call upon Thy name.
+<br>  _Both now._
+<br>  The door of compassion open unto us, O Blessed Godbirther, for hoping in Thee, let us not perish; through Thee may we be delivered from adversities, for Thou art the salvation of the Christian race.
+<br>  Lord, have mercy. <nb->(Twelve times)</nb->
 
 ### Prayer I, of St. Macarius the Great.
 O Eternal God and King of all creation, Who hast vouchsafed me to arrive at this hour, forgive me the sins that I have committed this day in deed, word and thought; and cleanse, O Lord, my lowly soul of all impurity of flesh and spirit, and grant me, O Lord, to pass the sleep of this night in peace; that, rising from my lowly bed, I may please Thy most holy name all the days of my life and thwart the enemies, fleshly and bodiless, that war against me. And deliver me, O Lord, from vain thoughts and evil desires which defile me. For Thine is the kingdom and the power and the glory: of the Father, and of the Son, and of the Holy Spirit; now and ever, and unto the ages of ages. Amen.  
