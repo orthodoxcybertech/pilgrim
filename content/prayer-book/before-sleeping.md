@@ -14,24 +14,22 @@ _[Jordanville]_
 ---
 
 <nb->Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb->
-
 In the name of the Father, and of the Son, and of the Holy Spirit. Amen.	
-
-O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
+<br>  O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
 ### Trisagion.
 
 Glory to Thee, our God, glory to Thee.	
 
 Heavenly King,<nb->*</nb-> O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
-
-<nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
+<br>  <nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
 
 Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
 
 All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
+
 Lord, have mercy. <nb->(Thrice)</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
