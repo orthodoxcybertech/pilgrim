@@ -18,7 +18,8 @@ _[Jordanville]_
 In the name of the Father, and of the Son, and of the Holy Spirit. Amen.	
 
 O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, of our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
-trisagion.
+
+## Trisagion.
 
 Glory to Thee, our God, glory to Thee.	
 
