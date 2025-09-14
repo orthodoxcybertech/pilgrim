@@ -7,9 +7,7 @@ next: prayer-book/upon-waking
 toc: false
 ---
 
-These prayers reflect the Russian practice.
-
-_[Jordanville]_
+These prayers reflect the Russian practice. _[Jordanville]_
 
 ---
 
