@@ -23,7 +23,7 @@ O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mo
 
 Glory to Thee, our God, glory to Thee.	
 
-Heavenly King,* O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
+Heavenly King,<nb->*</nb-> O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
 
 <nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
 
