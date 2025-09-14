@@ -1,5 +1,6 @@
 ---
 title: The Divine Liturgy
+link-title: Divine Liturgy
 weight: 17.5
 type: docs
 prev: prayer-book/pro-liturgy
