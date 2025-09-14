@@ -1,6 +1,6 @@
 ---
 title: The Divine Liturgy
-weight: 18
+weight: 17.5
 type: docs
 prev: prayer-book/pro-liturgy
 next: prayer-book/pre-consecrated
