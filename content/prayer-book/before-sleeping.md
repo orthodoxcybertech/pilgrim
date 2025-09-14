@@ -13,7 +13,7 @@ _[Jordanville]_
 
 ---
 
-<nb>Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb>
+<nb->Stand reverently, facing East, considering thyself to be in the presence of the All-seeing God, and, having made the sign of the cross, say:</nb->
 
 In the name of the Father, and of the Son, and of the Holy Spirit. Amen.	
 
@@ -24,14 +24,14 @@ Glory to Thee, our God, glory to Thee.
 
 Heavenly King,* O Comforter, the Spirit of Truth, Who art everywhere present and fillest all things, O Treasury of every good and Bestower of life: come and dwell in us, and cleanse us from every stain, and save our souls, O Good One.
 
-<nb>*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb>
+<nb->*Instead of the “Heavenly King…”: from Pascha to Ascension is appointed the hymn of Pascha, “Christ is risen from the dead...”; from Ascension to its leavetaking is appointed the hymn of the Ascension, “Thou hast ascended in glory…”. On the Saturday of Souls (that is, the day before Pentecost), the “Heavenly King…” is simply omitted as a symbol of the Apostles’ waiting for the descent of the Comforter.</nb->
 
-Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb>(Thrice)</nb>
+Holy God, Holy Mighty, Holy Immortal, have mercy on us. <nb->(Thrice)</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
 
 All-Holy Trinity, have mercy on us. Lord, be gracious unto our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for Thy Name’s sake.
-Lord, have mercy. <nb>(Thrice)</nb>
+Lord, have mercy. <nb->(Thrice)</nb->
 
 Glory to the Father, and to the Son, and to the Holy Spirit; both now and ever, and unto the ages of ages. Amen.
 
@@ -48,7 +48,7 @@ _Both now._
 
 The door of compassion open unto us, O Blessed Godbirther, for hoping in Thee, let us not perish; through Thee may we be delivered from adversities, for Thou art the salvation of the Christian race.
 
-Lord, have mercy. <nb>(Twelve times)</nb>
+Lord, have mercy. <nb->(Twelve times)</nb->
 
 ## Prayer I, of St. Macarius the Great.
 
@@ -112,7 +112,7 @@ O angel of Christ, my holy guardian and protector of my soul and body, forgive m
 ## Great-Hymn to the Godbirther.
 To Thee, the Champion Leader, we Thy servants dedicate a feast of victory and of thanksgiving as ones rescued out of sufferings, O Godbirther; but as Thou art one with might which is invincible, from all dangers that can be do Thou deliver us, that we may cry to Thee: Rejoice, Thou Bride Unwedded!
 
-<nb>Then:</nb>
+<nb->Then:</nb->
 
 Most glorious, Ever-Virgin, Mother of Christ God, present our prayer to Thy Son and our God, that through Thee He may save our souls.
 
@@ -127,18 +127,18 @@ It is truly meet to bless Thee, the Godbirther, ever-blessed and most blameless 
 
 More honourable than the Cherubim, and beyond compare more glorious than the Seraphim, Thee Who without corruption gavest birth to God the Word, the very Godbirther, Thee do we magnify.
 
-Glory; both now. Lord, have mercy <nb>(thrice).</nb>
+Glory; both now. Lord, have mercy <nb->(thrice).</nb->
 
-O Lord, bless. <nb>And the dismissal:</nb>
+O Lord, bless. <nb->And the dismissal:</nb->
 
 O Lord Jesus Christ, Son of God, for the sake of the prayers of Thy most pure Mother, our holy and God-bearing Fathers and all the Saints, have mercy on us. Amen.
 
-<nb>Then, pointing at thy bed, say:</nb>
+<nb->Then, pointing at thy bed, say:</nb->
 
 ## Prayer of St. John of Damascus.
 O Master, Lover of mankind, is this bed to be my coffin or wilt Thou enlighten my wretched soul with another day? Behold, the coffin lieth before me; behold, death confronteth me. I fear, O Lord, Thy judgment and the endless torments, yet I cease not to do evil. My Lord God, I continually anger Thee and Thy most pure Mother and all the Heavenly Hosts and my holy guardian angel. I know, O Lord, that I am unworthy of Thy love for mankind, but am worthy of every condemnation and torment. But, O Lord, whether I will it or not, save me. For to save a righteous man is no great thing and to have mercy on the pure is nothing wonderful, for they are worthy of Thy mercy. But on me, a sinner, shew the wonder of Thy mercy; in this reveal Thy love for mankind, lest my wickedness prevail over Thine ineffable goodness and merciful kindness; and order my life as Thou wilt.
 
-<nb>And when about to lie down in bed, say these small-hymns:</nb>
+<nb->And when about to lie down in bed, say these small-hymns:</nb->
 
 Enlighten mine eyes, O Christ God, lest at any time I sleep unto death, lest at any time mine enemy say: I have prevailed against him.
 
@@ -163,15 +163,15 @@ Rejoice, most venerable and life-giving Cross of the Lord,
 <br>help me, together with the holy Lady Virgin Godbirther and all the 	saints,
 unto the ages of ages. Amen.
 
-<nb>Or:</nb>
+<nb->Or:</nb->
 
 Compass me about, O Lord, with the power of Thy precious and life-giving Cross, and preserve me from every evil.
 
-<nb>Finally, instead of asking forgiveness of anyone else:</nb>
+<nb->Finally, instead of asking forgiveness of anyone else:</nb->
 
 Remit, pardon, forgive, O God, our offences, both voluntary and involuntary, in word and deed, in knowledge and ignorance, by day and by night, in mind and thought; forgive us all things, for Thou art good and the Lover of mankind.
 
-<nb>And these prayers:</nb>
+<nb->And these prayers:</nb->
 
 ## Prayer for our neighbours, kindred, and brethren.
 
@@ -180,6 +180,6 @@ O Lord, Lover of mankind, forgive those who hate and wrong us. Do good to those 
 ## Daily Confession of Sins.
 I confess to Thee, my Lord God and Creator, in one Holy Trinity glorified and worshipped, to the Father, Son, and Holy Spirit, all my sins which I have committed in all the days of my life and at every hour, at the present time and in the past, day and night, by deed, word, or thought: gluttony, drunkenness, secret eating, idle talking, despondency, indolence, contradiction, disobedience, slandering, condemning, negligence, self-love, acquisitiveness, extortion, lying, dishonesty, mercenariness, jealousy, envy, anger, remembrance of wrongs, hatred, bribery; and by all my senses: sight, hearing, smell, taste, touch; and by the rest of my sins, of the soul together with the bodily, through which I have angered Thee, my God and Creator, and dealt unjustly with my neighbor. Sorrowing for these, I stand guilty before Thee, my God, but I have the will to repent. Only help me, O Lord my God, with tears I humbly entreat Thee. Forgive my past sins through Thy compassion, and absolve from all these which I have said in Thy presence, for Thou art good and the Lover of mankind.
 
-<nb>When giving thyself up to sleep, say:</nb>
+<nb->When giving thyself up to sleep, say:</nb->
 
 Into Thy hands, O Lord Jesus Christ my God, I commit my spirit. Do Thou bless me, do Thou have mercy on me, and grant me life eternal. Amen.
