@@ -8,6 +8,13 @@ body,.content,p {
   font-size: 1.3rem
 }
 
+.markdown {
+  h3 {
+    text-color: #c9211e
+    
+  }
+}
+
 html,body,.content,p {
   font-family: "EB Garamond", "Times", serif;
   font-optical-sizing: auto;
@@ -78,9 +85,9 @@ swish- {
 
 /* primary colour */
 :root {
-  --primary-hue: 286deg;
-  --primary-saturation: 65%;
-  --primary-lightness: 50%;
+  --primary-hue: 1deg;
+  --primary-saturation: 74%;
+  --primary-lightness: 45%;
 }
 
 /* page format */
