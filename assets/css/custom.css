@@ -110,6 +110,12 @@ red- {
   color: red;
 }
 
+nb- {
+  font-style: italics;
+  color: red;
+  font-size: 0.9rem
+}
+
 /*custom small-capitals tag*/
 sc- {
   font-variant-caps: small-caps;
